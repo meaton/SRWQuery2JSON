@@ -23,7 +23,7 @@ var argv = require('optimist')
 
 var is_json_p = argv.p; // true if we require JSONP (cross-domain, local)
 var xml_docs = new Array();
-var period_map = {}, json_obj = {};
+var period_map = {'TEIP5DKCLARIN': {}, 'TEIP5': {}, 'AUDIO': {}, 'VIDEO': {}, 'LEX': {}, 'IMDI-SESSION'}, json_obj = {};
 var file_read_length = 1, temp_filename = null;
 
 // eSciDoc 1.3.x SRW 
@@ -59,19 +59,20 @@ var parse = function(doc) {
     // Add the timeline items
     utile.each(items, function(val, key) {
       var creation_date = val.get('escidocMetadataRecords:md-records/escidocMetadataRecords:md-record/CMD/Components/olac/created', ns_obj).text();
-    
-      if(!period_map[creation_date]) {
+      var tag = val.get('escidocMetadataRecords:md-records/escidocMetadataRecords:md-record/CMD/Components/olac/conformsTo', ns_obj).text();
+      if(tag.indexOf('IMDI') != -1) tag = tag.substring(0, tag.lastIndexOf('-')-1); // test data date: 2010-02-23
+      if(!period_map[tag][creation_date]) {
     	var title = val.attr('title').value();
     	var description = val.get('escidocMetadataRecords:md-records/escidocMetadataRecords:md-record/CMD/Components/olac/description', ns_obj).text();
 	var href_attr = val.attr('href').value().split('/');
 	var link_tag = '<a href=\"http://clarin.dk/clarindk/item.jsp?id=' + href_attr[href_attr.length-1] + '\">Vis ressource</a>';
-	var tag = val.get('escidocMetadataRecords:md-records/escidocMetadataRecords:md-record/CMD/Components/olac/conformsTo', ns_obj).text();
+	
 	var date_obj = {headline: title, startDate: creation_date, endDate: creation_date, text: description + '<p>' + link_tag + '</p>'};
 	if(tag != null) date_obj.tag = tag;
 	date_obj = addOptImage(date_obj, val);	
 
 	json_obj.timeline.date.push(date_obj);
-	period_map[creation_date] = 1; // flag example as set
+	period_map[tag][creation_date] = 1; // flag example as set
       }
     });
 
