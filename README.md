@@ -1,6 +1,6 @@
 # SRWQuery2JSON 
 
-**[eSciDoc](/escidoc)** SRW Query XML responses to JSON (TimelineJS format)
+Convert **[eSciDoc](/escidoc)** SRW Query XML responses to JSON (TimelineJS format)
 
 * [eSciDoc Search Service (SRW)](https://www.escidoc.org/JSPWiki/en/Search)
 * [TimelineJS](http://timeline.verite.co/)
