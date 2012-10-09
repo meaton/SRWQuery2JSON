@@ -1,8 +1,8 @@
 {
-  "name": "eSciDocSRWTimelineJS",
+  "name": "SRWQuery2JSON",
   "version": "0.1.0",
   "description": "Convert eSciDoc SRW query result to JSON (TimelineJS)",
-  "main": "srwquery2json.js",
+  "main": "./srwquery2json.js",
   "dependencies": {
     "libxmljs": "~0.6.1",
     "utile": "~0.1.5",
@@ -10,9 +10,9 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "node srwquery2json.js"
+    "test": "./srwquery2json.js"
   },
-  "repository": "",
+  "repository": "git://github/meaton/SRWQuery2JSON",
   "author": "Mitchell Seaton",
   "license": "BSD"
 }
