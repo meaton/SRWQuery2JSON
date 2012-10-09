@@ -1,0 +1,185 @@
+storyjs_jsonp_data = {
+    "timeline": {
+        "type": "default",
+        "headline": "Demo: Tekster fra 1950-1960",
+        "text": " ",
+        "startDate": "1950",
+        "date": [
+            {
+                "headline": "Om den store Guds Bepaattelse, met Suæren oc Banden. Del C",
+                "startDate": "1557",
+                "endDate": "1557",
+                "text": "This text belongs to the Knowledge for Everyman Corpus of Danish texts from the period 1500-1750. The texts in the corpus represent various subject fields, e.g. medicine, piety, news, and are printed in black letter. The texts are displayed as transcriptions accompanied with facsimiles of the pages from the original editions. For further information, see http://duds.nordisk.ku.dk/<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:620177\">Vis ressource</a></p>",
+                "tag": "TEIP5"
+            },
+            {
+                "headline": "En enfoldig vnderuisning paa Fader vor",
+                "startDate": "1552",
+                "endDate": "1552",
+                "text": "This text belongs to the Knowledge for Everyman Corpus of Danish texts from the period 1500-1750. The texts in the corpus represent various subject fields, e.g. medicine, piety, news, and are printed in black letter. The texts are displayed as transcriptions accompanied with facsimiles of the pages from the original editions. For further information, see http://duds.nordisk.ku.dk/<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:427279\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:427279&component=dkclarin:427278&.jpg",
+                    "credit": "Tidemand, Peder",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1552\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Catechismus.",
+                "startDate": "1594",
+                "endDate": "1594",
+                "text": "This text belongs to the Knowledge for Everyman Corpus of Danish texts from the period 1500-1750. The texts in the corpus represent various subject fields, e.g. medicine, piety, news, and are printed in black letter. The texts are displayed as transcriptions accompanied with facsimiles of the pages from the original editions. For further information, see http://duds.nordisk.ku.dk/<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:449546\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:449546&component=dkclarin:449544&.jpg",
+                    "credit": "anonymous",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1594\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Een sandferdig beskriffuilse om som wilde Mennisker oc Dyr wdi Indien, oc saa wdi andre omliggindis Landskab oc Konge Riger baade til Wand oe land, er seet.",
+                "startDate": "1559",
+                "endDate": "1559",
+                "text": "This text belongs to the Knowledge for Everyman Corpus of Danish texts from the period 1500-1750. The texts in the corpus represent various subject fields, e.g. medicine, piety, news, and are printed in black letter. The texts are displayed as transcriptions accompanied with facsimiles of the pages from the original editions. For further information, see http://duds.nordisk.ku.dk/<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:451004\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:451004&component=dkclarin:451003&.jpg",
+                    "credit": "anonymous",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1559\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "En forskreckelig oc sand bescriffuelse, om mange Troldfolck: som ere forbrende for deris Misgierninger skyld, fra det Aar 1589 regnendis",
+                "startDate": "1591",
+                "endDate": "1591",
+                "text": "This text belongs to the Knowledge for Everyman Corpus of Danish texts from the period 1500-1750. The texts in the corpus represent various subject fields, e.g. medicine, piety, news, and are printed in black letter. The texts are displayed as transcriptions accompanied with facsimiles of the pages from the original editions. For further information, see http://duds.nordisk.ku.dk/<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:451238\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:451238&component=dkclarin:451233&.jpg",
+                    "credit": "Benedicht, Lorentz",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1591\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Tuenne sandrue, wbarmhiertelige … Beretning om det Tyranni, som Moskovitterne har bedrevet i Livland 1577",
+                "startDate": "1577",
+                "endDate": "1577",
+                "text": "This text belongs to the Knowledge for Everyman Corpus of Danish texts from the period 1500-1750. The texts in the corpus represent various subject fields, e.g. medicine, piety, news, and are printed in black letter. The texts are displayed as transcriptions accompanied with facsimiles of the pages from the original editions. For further information, see http://duds.nordisk.ku.dk/<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:451258\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:451258&component=dkclarin:451254&.jpg",
+                    "credit": "Vingaard, Mads",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1577\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Børne Speigel",
+                "startDate": "1568",
+                "endDate": "1568",
+                "text": "This text belongs to the Knowledge for Everyman Corpus of Danish texts from the period 1500-1750. The texts in the corpus represent various subject fields, e.g. medicine, piety, news, and are printed in black letter. The texts are displayed as transcriptions accompanied with facsimiles of the pages from the original editions. For further information, see http://duds.nordisk.ku.dk/<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:597084\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:597084&component=dkclarin:597080&.jpg",
+                    "credit": "anonymous",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1568\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Præservativ mod Pestilens.",
+                "startDate": "1553",
+                "endDate": "1553",
+                "text": "This text belongs to the Knowledge for Everyman Corpus of Danish texts from the period 1500-1750. The texts in the corpus represent various subject fields, e.g. medicine, piety, news, and are printed in black letter. The texts are displayed as transcriptions accompanied with facsimiles of the pages from the original editions. For further information, see http://duds.nordisk.ku.dk/<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:597200\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:597200&component=dkclarin:597186&.jpg",
+                    "credit": "anonymous",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1553\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "En nøttelig Legebog. Del A",
+                "startDate": "1533",
+                "endDate": "1533",
+                "text": "This text belongs to the Knowledge for Everyman Corpus of Danish texts from the period 1500-1750. The texts in the corpus represent various subject fields, e.g. medicine, piety, news, and are printed in black letter. The texts are displayed as transcriptions accompanied with facsimiles of the pages from the original editions. For further information, see http://duds.nordisk.ku.dk/<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:597250\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:597250&component=dkclarin:597240&.jpg",
+                    "credit": "Hoochstraten, Joh.",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1533\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Twenne Besluttinge medt nogre Christelige raade aff Gudtz Oerdt, om Egteschabff.",
+                "startDate": "1530",
+                "endDate": "1530",
+                "text": "This text belongs to the Knowledge for Everyman Corpus of Danish texts from the period 1500-1750. The texts in the corpus represent various subject fields, e.g. medicine, piety, news, and are printed in black letter. The texts are displayed as transcriptions accompanied with facsimiles of the pages from the original editions. For further information, see http://duds.nordisk.ku.dk/<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:601050\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:601050&component=dkclarin:601028&.jpg",
+                    "credit": "anonymous",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1530\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Om Børn at holde til skole Del A",
+                "startDate": "1531",
+                "endDate": "1531",
+                "text": "This text belongs to the Knowledge for Everyman Corpus of Danish texts from the period 1500-1750. The texts in the corpus represent various subject fields, e.g. medicine, piety, news, and are printed in black letter. The texts are displayed as transcriptions accompanied with facsimiles of the pages from the original editions. For further information, see http://duds.nordisk.ku.dk/<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:601080\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:601080&component=dkclarin:601068&.jpg",
+                    "credit": "anonymous",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1531\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Mangehaande artige Kunster at berede godt Blæk.",
+                "startDate": "1578",
+                "endDate": "1578",
+                "text": "This text belongs to the Knowledge for Everyman Corpus of Danish texts from the period 1500-1750. The texts in the corpus represent various subject fields, e.g. medicine, piety, news, and are printed in black letter. The texts are displayed as transcriptions accompanied with facsimiles of the pages from the original editions. For further information, see http://duds.nordisk.ku.dk/<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:601374\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:601374&component=dkclarin:601354&.jpg",
+                    "credit": "Benedicht, Lorentz",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1578\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Regnskab om en Mands Fortæring",
+                "startDate": "1550",
+                "endDate": "1550",
+                "text": "This text belongs to the Knowledge for Everyman Corpus of Danish texts from the period 1500-1750. The texts in the corpus represent various subject fields, e.g. medicine, piety, news, and are printed in black letter. The texts are displayed as transcriptions accompanied with facsimiles of the pages from the original editions. For further information, see http://duds.nordisk.ku.dk/<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:601392\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:601392&component=dkclarin:601389&.jpg",
+                    "credit": "anonymous",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1550\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Nogre gudelige Bøner.",
+                "startDate": "1509",
+                "endDate": "1509",
+                "text": "This text belongs to the Knowledge for Everyman Corpus of Danish texts from the period 1500-1750. The texts in the corpus represent various subject fields, e.g. medicine, piety, news, and are printed in black letter. The texts are displayed as transcriptions accompanied with facsimiles of the pages from the original editions. For further information, see http://duds.nordisk.ku.dk/<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:612134\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:612134&component=dkclarin:612110&.jpg",
+                    "credit": "af Ghemen, Gotfred",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1509\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Tyrkens Tog til Rhodos 1480",
+                "startDate": "1508",
+                "endDate": "1508",
+                "text": "This text belongs to the Knowledge for Everyman Corpus of Danish texts from the period 1500-1750. The texts in the corpus represent various subject fields, e.g. medicine, piety, news, and are printed in black letter. The texts are displayed as transcriptions accompanied with facsimiles of the pages from the original editions. For further information, see http://duds.nordisk.ku.dk/<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:623070\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:623070&component=dkclarin:623054&.jpg",
+                    "credit": "af Ghemen, Gotfred",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1508\">Søg Alle</a>\" fra denne periode."
+                }
+            }
+        ]
+    }
+}

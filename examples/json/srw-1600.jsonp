@@ -1,0 +1,418 @@
+storyjs_jsonp_data = {
+    "timeline": {
+        "type": "default",
+        "headline": "Demo: Tekster fra 1950-1960",
+        "text": " ",
+        "startDate": "1950",
+        "date": [
+            {
+                "headline": "Medicin Eller Læge-Boog",
+                "startDate": "1633",
+                "endDate": "1633",
+                "text": "This text belongs to the Knowledge for Everyman Corpus of Danish texts from the period 1500-1750. The texts in the corpus represent various subject fields, e.g. medicine, piety, news, and are printed in black letter. The texts are displayed as transcriptions accompanied with facsimiles of the pages from the original editions. For further information, see http://duds.nordisk.ku.dk/<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:448032\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:448032&component=dkclarin:448028&.jpg",
+                    "credit": "anonymous",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1633\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Itzige Tjds Secretarius. Det er: En ny oc Fuldkommen Formular- oc Titular-Bog. Samlet bl.a. af N. Helvads Formular-Bog samt andre trykte bøger.",
+                "startDate": "1666",
+                "endDate": "1666",
+                "text": "This text belongs to the Knowledge for Everyman Corpus of Danish texts from the period 1500-1750. The texts in the corpus represent various subject fields, e.g. medicine, piety, news, and are printed in black letter. The texts are displayed as transcriptions accompanied with facsimiles of the pages from the original editions. For further information, see http://duds.nordisk.ku.dk/<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:449136\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:449136&component=dkclarin:449135&.jpg",
+                    "credit": "anonymous",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1666\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "En Ny oc skøn Fomular Bog",
+                "startDate": "1625",
+                "endDate": "1625",
+                "text": "This text belongs to the Knowledge for Everyman Corpus of Danish texts from the period 1500-1750. The texts in the corpus represent various subject fields, e.g. medicine, piety, news, and are printed in black letter. The texts are displayed as transcriptions accompanied with facsimiles of the pages from the original editions. For further information, see http://duds.nordisk.ku.dk/<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:449226\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:449226&component=dkclarin:449213&.jpg",
+                    "credit": "anonymous",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1625\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Calendarium eller Almanach, paa det Aar, effter vor Herris Jesu Christi Naaderige Fødsel 1605",
+                "startDate": "1604",
+                "endDate": "1604",
+                "text": "This text belongs to the Knowledge for Everyman Corpus of Danish texts from the period 1500-1750. The texts in the corpus represent various subject fields, e.g. medicine, piety, news, and are printed in black letter. The texts are displayed as transcriptions accompanied with facsimiles of the pages from the original editions. For further information, see http://duds.nordisk.ku.dk/<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:449422\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:449422&component=dkclarin:449379&.jpg",
+                    "credit": "anonymous",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1604\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Kort Beretning om den Comet-Stierne som sig om Morgenen fra Klock 3 til 5 her udi disse Lande mod Sydost haffver ladet see, udi dette Aar 1661.",
+                "startDate": "1661",
+                "endDate": "1661",
+                "text": "This text belongs to the Knowledge for Everyman Corpus of Danish texts from the period 1500-1750. The texts in the corpus represent various subject fields, e.g. medicine, piety, news, and are printed in black letter. The texts are displayed as transcriptions accompanied with facsimiles of the pages from the original editions. For further information, see http://duds.nordisk.ku.dk/<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:449602\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:449602&component=dkclarin:449601&.jpg",
+                    "credit": "anonymous",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1661\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "En Ny Bønebog, tilsammendragen aff de gamle lærefædre",
+                "startDate": "1606",
+                "endDate": "1606",
+                "text": "This text belongs to the Knowledge for Everyman Corpus of Danish texts from the period 1500-1750. The texts in the corpus represent various subject fields, e.g. medicine, piety, news, and are printed in black letter. The texts are displayed as transcriptions accompanied with facsimiles of the pages from the original editions. For further information, see http://duds.nordisk.ku.dk/<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:449810\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:449810&component=dkclarin:449785&.jpg",
+                    "credit": "anonymous",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1606\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Catechesis paa det korteligste befatted, af Latinen, for de smaa i Scholerne, naar de hafue vel lærdt, stedse ad beholde.",
+                "startDate": "1627",
+                "endDate": "1627",
+                "text": "This text belongs to the Knowledge for Everyman Corpus of Danish texts from the period 1500-1750. The texts in the corpus represent various subject fields, e.g. medicine, piety, news, and are printed in black letter. The texts are displayed as transcriptions accompanied with facsimiles of the pages from the original editions. For further information, see http://duds.nordisk.ku.dk/<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:451120\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:451120&component=dkclarin:451099&.jpg",
+                    "credit": "anonymous",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1627\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "En nyttig Plante Bog om mange slags artige Imper oc Poder, oc huorledis mand skal sætte allehaande Fruct og Træ",
+                "startDate": "1635",
+                "endDate": "1635",
+                "text": "This text belongs to the Knowledge for Everyman Corpus of Danish texts from the period 1500-1750. The texts in the corpus represent various subject fields, e.g. medicine, piety, news, and are printed in black letter. The texts are displayed as transcriptions accompanied with facsimiles of the pages from the original editions. For further information, see http://duds.nordisk.ku.dk/<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:451200\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:451200&component=dkclarin:451194&.jpg",
+                    "credit": "anonymous",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1635\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "En liden Praxis Astrologica",
+                "startDate": "1608",
+                "endDate": "1608",
+                "text": "This text belongs to the Knowledge for Everyman Corpus of Danish texts from the period 1500-1750. The texts in the corpus represent various subject fields, e.g. medicine, piety, news, and are printed in black letter. The texts are displayed as transcriptions accompanied with facsimiles of the pages from the original editions. For further information, see http://duds.nordisk.ku.dk/<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:466212\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:466212&component=dkclarin:466211&.jpg",
+                    "credit": "anonymous",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1608\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Vis oc sandferdig Beretning om tre Sole, saa vel som de selsomme store oc underlige Mirackler oc Tegn, som ere seet paa Himmelen ved Wiborrig oc andensteds i Jydland.",
+                "startDate": "1664",
+                "endDate": "1664",
+                "text": "This text belongs to the Knowledge for Everyman Corpus of Danish texts from the period 1500-1750. The texts in the corpus represent various subject fields, e.g. medicine, piety, news, and are printed in black letter. The texts are displayed as transcriptions accompanied with facsimiles of the pages from the original editions. For further information, see http://duds.nordisk.ku.dk/<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:505566\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:505566&component=dkclarin:505563&.jpg",
+                    "credit": "anonymous",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1664\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Kandestøbermærker",
+                "startDate": "1654",
+                "endDate": "1654",
+                "text": "Kandestøbermærker, manggods, for SP (muligvis Søren Pedersen Wieborg, Kbh. før 1654). Fad, D 4485, Nat. mus. 2. HR<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:535202\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:535202&component=dkclarin:535201&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1654\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Kandestøbermærker",
+                "startDate": "1685",
+                "endDate": "1685",
+                "text": "Kandestøbermærker, engelsk tin, for Peder Schiønfeldt, Kbh. 1685. Tintallerken med våbenskjold (Pax-Bille), Gavnø invent. nr. 41-4. HR<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:535262\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:535262&component=dkclarin:535261&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1685\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Kandestøbermærker",
+                "startDate": "1673",
+                "endDate": "1673",
+                "text": "Kandestøbermærker, manggods?, for Sandsynl. Jens Olsen, Kbh. , død 1673. I fad D 4296, Nat. Mus. 2. HR<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:535294\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:535294&component=dkclarin:535293&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1673\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Kandestøbermærker",
+                "startDate": "1647",
+                "endDate": "1647",
+                "text": "Kandestøbermærker (manggods?) for sandsynligvis Bent Mathiesen, Ålborg før 1647. Nationalmuseets 2. Afd. HR<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:535302\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:535302&component=dkclarin:535301&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1647\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Glarmesterskilt",
+                "startDate": "1681",
+                "endDate": "1681",
+                "text": "Glarmesterskilt med inskription “GLARMESTERNES - LAVGS-SEGL I KJØBENHAVN 1681”. Skiltet er lavet i ét stykke og måler: H. 25,5 cm. B. 20,5 cm. Glassets tykk. 2,2 m. m. Skiltet er fundet under oprydning i en glarmesterforretning i Randers. Foto indsendt af Allan Andreasson, Viborgvej 38,3. Randers. J. nr. 149/88.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:535354\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:535354&component=dkclarin:535353&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1681\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Snedker",
+                "startDate": "1698",
+                "endDate": "1698",
+                "text": "Snedker i sit værksted efter: (Foto) Abbildung der gemeinnützlichen Hauptstände. Künstler und Handwerker. Von Chrestoff Weigel in Regenspurg 1698.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:535474\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:535474&component=dkclarin:535473&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1698\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Kandestøbermærker",
+                "startDate": "1680",
+                "endDate": "1680",
+                "text": "Kandestøbermærker for enten Hendrick Johansen eller Henrick Jacobsen, Ribe menstre henh. 1641 og før 1680. Nationalmuseets 2. Afd. HR<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:535550\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:535550&component=dkclarin:535549&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1680\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Kandestøbermærker",
+                "startDate": "1668",
+                "endDate": "1668",
+                "text": "Kandestøbermærker, engelsk tin, for Jens Hansen, Kbh. 1668. Tallerken med våbenskjold (Rosenkrans-Scheel) Gavnø, invent. nr, 41-1. HR<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:537170\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:537170&component=dkclarin:537169&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1668\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Kandestøbermærker",
+                "startDate": "1674",
+                "endDate": "1674",
+                "text": "Kandestøbermærke (krontin) for Johan Hansen Schmidt, Køge 1674. Dansk Folkemuseum. HR<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:537454\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:537454&component=dkclarin:537453&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1674\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Kandestøbermærker",
+                "startDate": "1695",
+                "endDate": "1695",
+                "text": "Kandestøbermærke (krontin) for Hans Andersen, Roskilde 1695 i tinfad, diam. 30 cm, h. 2,5 cm. Roskilde museum. HR<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:537630\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:537630&component=dkclarin:537629&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1695\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Kandestøbermærker",
+                "startDate": "1682",
+                "endDate": "1682",
+                "text": "Kandestøbermærke (krontin?) for Mathias Olsen, Køge 1682. Nationalmuseets 2. Afd. HR<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:537802\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:537802&component=dkclarin:537801&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1682\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Kandestøbermærker",
+                "startDate": "1660",
+                "endDate": "1660",
+                "text": "Kandestøbermærker, engelsk tin, for IS 1660(?). Sandsynligvis Jochum Schultz, Sønderborg, 166? HR<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:538086\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:538086&component=dkclarin:538085&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1660\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Kandestøbermærker",
+                "startDate": "1679",
+                "endDate": "1679",
+                "text": "Kandestøbermærke for LCS (muligvis Laurids Christophersen, Nykøbing F. , 1677 el. 1679. Kruslåg, D 6512, Nat. mus. 2. HR<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:539014\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:539014&component=dkclarin:539013&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1679\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Hjul- og Karetmager",
+                "startDate": "1689",
+                "endDate": "1689",
+                "text": "Karetmager. Træsnit fra E. Porzelius: Curioser Spiegel,Nürnberg, 1689. Lysbillede, samme Neg. nr.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:539030\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:539030&component=dkclarin:539029&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1689\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Kandestøbermærker",
+                "startDate": "1694",
+                "endDate": "1694",
+                "text": "Kandestøbermærker sandsynligvis for Poul Thomesen Lassen, Tønder før 1694. Nationalmuseets 2. Afd. HR<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:539510\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:539510&component=dkclarin:539509&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1694\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Kandestøbermærker",
+                "startDate": "1600",
+                "endDate": "1600",
+                "text": "Kandestøbermærker, krontin?, for sandsynl, Isaac Corris, Kbh. ca. 1600. Tinfad (mosefund), 100/46, Herning Museum. HR<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:539542\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:539542&component=dkclarin:539541&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1600\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Kandestøbermærker",
+                "startDate": "1656",
+                "endDate": "1656",
+                "text": "Kandestøbermærke, krontin, for Peder Hansen Aerøbo, Kbh. 1656. Relieftallerken, 6484, Nat. Mus. 2. HR<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:540042\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:540042&component=dkclarin:540041&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1656\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Discursus de certa incertitudine rerum humanarum. Verdsens Speyl Del A",
+                "startDate": "1648",
+                "endDate": "1648",
+                "text": "This text belongs to the Knowledge for Everyman Corpus of Danish texts from the period 1500-1750. The texts in the corpus represent various subject fields, e.g. medicine, piety, news, and are printed in black letter. The texts are displayed as transcriptions accompanied with facsimiles of the pages from the original editions. For further information, see http://duds.nordisk.ku.dk/<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:580046\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:580046&component=dkclarin:580025&.jpg",
+                    "credit": "anonymous",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1648\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Sandru ny Tiding: Som hafuer sig tildraget i næruerendis Aar, vdi Offuer Elsas i en liden By, ved naffn Altkirch, 3 mjle fra Mulhusz, huorledis mand paa Kirckegaarden vnder 3 Lindetræer haffuer hørt en gantske sød, lifflig oc skøn Musicke: aff tre hellige Guds Engle etc",
+                "startDate": "1616",
+                "endDate": "1616",
+                "text": "This text belongs to the Knowledge for Everyman Corpus of Danish texts from the period 1500-1750. The texts in the corpus represent various subject fields, e.g. medicine, piety, news, and are printed in black letter. The texts are displayed as transcriptions accompanied with facsimiles of the pages from the original editions. For further information, see http://duds.nordisk.ku.dk/<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:580190\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:580190&component=dkclarin:580188&.jpg",
+                    "credit": "anonymous",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1616\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "En almindelig Bøn at bruge i disse besværlige Tider og dagligen at bede oc læse baade i Kirchen og i Huset.",
+                "startDate": "1675",
+                "endDate": "1675",
+                "text": "This text belongs to the Knowledge for Everyman Corpus of Danish texts from the period 1500-1750. The texts in the corpus represent various subject fields, e.g. medicine, piety, news, and are printed in black letter. The texts are displayed as transcriptions accompanied with facsimiles of the pages from the original editions. For further information, see http://duds.nordisk.ku.dk/<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:595022\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:595022&component=dkclarin:595021&.jpg",
+                    "credit": "anonymous",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1675\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Oost-Indisk Reise-Bog, hvor udi befattis hans Reise til Oost-indien saa vel og eendeel Platzers Beskrifvelse med en Andtall Hedningers Ceremonier etc. Del A",
+                "startDate": "1678",
+                "endDate": "1678",
+                "text": "This text belongs to the Knowledge for Everyman Corpus of Danish texts from the period 1500-1750. The texts in the corpus represent various subject fields, e.g. medicine, piety, news, and are printed in black letter. The texts are displayed as transcriptions accompanied with facsimiles of the pages from the original editions. For further information, see http://duds.nordisk.ku.dk/<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:595060\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:595060&component=dkclarin:595053&.jpg",
+                    "credit": "anonymous",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1678\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Gamle Kierlingers Philosophi eller Spaadom, hvilcket de aff en halff Aars gammel Dreng erfaret, oc af en blind Qvinde, som det udi egen Person haffver set.",
+                "startDate": "1676",
+                "endDate": "1676",
+                "text": "This text belongs to the Knowledge for Everyman Corpus of Danish texts from the period 1500-1750. The texts in the corpus represent various subject fields, e.g. medicine, piety, news, and are printed in black letter. The texts are displayed as transcriptions accompanied with facsimiles of the pages from the original editions. For further information, see http://duds.nordisk.ku.dk/<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:597286\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:597286&component=dkclarin:597285&.jpg",
+                    "credit": "anonymous",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1676\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "En kort Vnderujsning Om Tienere Oc Tiunde, d.e. Huorledis Tienere oc Tiunde bør skicke sig imod deres Hosbonder oc Hustruer, som de tiene etc. Del C",
+                "startDate": "1610",
+                "endDate": "1610",
+                "text": "This text belongs to the Knowledge for Everyman Corpus of Danish texts from the period 1500-1750. The texts in the corpus represent various subject fields, e.g. medicine, piety, news, and are printed in black letter. The texts are displayed as transcriptions accompanied with facsimiles of the pages from the original editions. For further information, see http://duds.nordisk.ku.dk/<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:597536\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:597536&component=dkclarin:597527&.jpg",
+                    "credit": "anonymous",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1610\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Kort, simpel oc sandferdig Vndervjisning, huorledis den gemeine Mand oc Almue, Borger eller Bondestands, som huercken kand komme til at bruge Doctores eller Apotecker",
+                "startDate": "1652",
+                "endDate": "1652",
+                "text": "This text belongs to the Knowledge for Everyman Corpus of Danish texts from the period 1500-1750. The texts in the corpus represent various subject fields, e.g. medicine, piety, news, and are printed in black letter. The texts are displayed as transcriptions accompanied with facsimiles of the pages from the original editions. For further information, see http://duds.nordisk.ku.dk/<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:623032\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:623032&component=dkclarin:623020&.jpg",
+                    "credit": "anonymous",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1652\">Søg Alle</a>\" fra denne periode."
+                }
+            }
+        ]
+    }
+}

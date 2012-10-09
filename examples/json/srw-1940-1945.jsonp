@@ -1,0 +1,82 @@
+storyjs_jsonp_data = {
+    "timeline": {
+        "type": "default",
+        "headline": "Demo: Tekster fra 1950-1960",
+        "text": " ",
+        "startDate": "1950",
+        "date": [
+            {
+                "headline": "Skibsbrødfabrikker",
+                "startDate": "1945",
+                "endDate": "1945",
+                "text": "Forenede Skibsbrødfabrikker. Bageriet med forskellige bagerimaskiner. Fotograf: Hauerslev, 7. december 1945.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:475244\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:475244&component=dkclarin:475243&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1945\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Mølles Bageri",
+                "startDate": "1944",
+                "endDate": "1944",
+                "text": "Skovens Mølles Bageri. Set fra SØ. Bageriet ligger i den østlige del af Huset. I den anden Ende har der oprindelig været to Lejligheder. En for Mølleren og en for Bagersvenden. D. Y. A. 1. oktober 1944.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:475344\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:475344&component=dkclarin:475343&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1944\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Karosseri Fabrik",
+                "startDate": "1943",
+                "endDate": "1943",
+                "text": "Dansk Karosseri Fabrik. Fotograf: Heinrich G. Adolph. 1943.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:475216\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:475216&component=dkclarin:475215&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1943\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Magasin du Nord",
+                "startDate": "1942",
+                "endDate": "1942",
+                "text": "Magasin du Nord. Demonstration. Billedskærer viser sin kunst. Fotograf: Hauerslev 1942<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:480288\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:480288&component=dkclarin:480287&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1942\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Billedskærer Scherling",
+                "startDate": "1940",
+                "endDate": "1940",
+                "text": "Billedskærer Arne Scherling (1893–1966), oldermand for billedskærerlauget, arbejder. Foto: Pressehuset, Billedtjenesten, Copyright Gunvor Betting, ca. 1940. Billedserie skænket 20/10 1992 af enken, Else Scherling - boende i Gartnerboligen i Sorgenfri, senere \"Møllebo\" - ved fru V. Heine, Lottenborgvej 17, Lyngby. J. nr. 269/92.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:480032\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:480032&component=dkclarin:480031&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1940\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Fællesbagerier",
+                "startDate": "1941",
+                "endDate": "1941",
+                "text": "De Sammensluttede Fællesbagerier. To herrer i kontor. (forretningsfører og sekretær). Fotograf: Hauerslev 12. december 1941<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:475320\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:475320&component=dkclarin:475319&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1941\">Søg Alle</a>\" fra denne periode."
+                }
+            }
+        ]
+    }
+}

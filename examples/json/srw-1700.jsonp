@@ -1,0 +1,622 @@
+storyjs_jsonp_data = {
+    "timeline": {
+        "type": "default",
+        "headline": "Demo: Tekster fra 1950-1960",
+        "text": " ",
+        "startDate": "1950",
+        "date": [
+            {
+                "headline": "Siælens daglige Røg-Offer, for Herren optændt, i Morgen og Aften-Bønner.",
+                "startDate": "1733",
+                "endDate": "1733",
+                "text": "This text belongs to the Knowledge for Everyman Corpus of Danish texts from the period 1500-1750. The texts in the corpus represent various subject fields, e.g. medicine, piety, news, and are printed in black letter. The texts are displayed as transcriptions accompanied with facsimiles of the pages from the original editions. For further information, see http://duds.nordisk.ku.dk/<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:427425\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:427425&component=dkclarin:427424&.jpg",
+                    "credit": "anonymous",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1733\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Beviis, at Naturens Lov ikke forbyder den Respect imod Fruentimmeret, som Moden har indført iblant os.",
+                "startDate": "1747",
+                "endDate": "1747",
+                "text": "This text belongs to the Knowledge for Everyman Corpus of Danish texts from the period 1500-1750. The texts in the corpus represent various subject fields, e.g. medicine, piety, news, and are printed in black letter. The texts are displayed as transcriptions accompanied with facsimiles of the pages from the original editions. For further information, see http://duds.nordisk.ku.dk/<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:449180\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:449180&component=dkclarin:449161&.jpg",
+                    "credit": "anonymous",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1747\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Beretning om en græselig Orm, som dend 10 juli 1720 og siden aug. 1721 skal være seet i Tønning Sogn i Skanderborg Amt i Nørre-Jylland",
+                "startDate": "1722",
+                "endDate": "1722",
+                "text": "This text belongs to the Knowledge for Everyman Corpus of Danish texts from the period 1500-1750. The texts in the corpus represent various subject fields, e.g. medicine, piety, news, and are printed in black letter. The texts are displayed as transcriptions accompanied with facsimiles of the pages from the original editions. For further information, see http://duds.nordisk.ku.dk/<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:451212\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:451212&component=dkclarin:451211&.jpg",
+                    "credit": "anonymous",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1722\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "En kort Underretning Om Præservation og Curation imod Pesten: Efter Hans Kongel. Majestets, allernaadigeste Befaling Opsat af Facultate Medica, samt nogle af de erfarnste Medicis Practicis i Kiøbenhavn.",
+                "startDate": "1709",
+                "endDate": "1709",
+                "text": "This text belongs to the Knowledge for Everyman Corpus of Danish texts from the period 1500-1750. The texts in the corpus represent various subject fields, e.g. medicine, piety, news, and are printed in black letter. The texts are displayed as transcriptions accompanied with facsimiles of the pages from the original editions. For further information, see http://duds.nordisk.ku.dk/<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:451342\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:451342&component=dkclarin:451323&.jpg",
+                    "credit": "anonymous",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1709\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Messingsmelteri",
+                "startDate": "1764",
+                "endDate": "1764",
+                "text": "Fransk Messingsmelteri. Stik fra M. Galon: L'art de convertir le cuivre rouge … en laiton. Paris 1764. (Descriptions des arts et métiers). Nærmere oplysninger i Budstikken 1960 (\"Brede omkring 1800\").<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:529048\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:529048&component=dkclarin:529047&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1764\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Kandestøbermærker",
+                "startDate": "1780",
+                "endDate": "1780",
+                "text": "Kandestøbermærke, krontin, for Eprhaim Benjamin Reisz, Kbh. 1780. Flad tallerken, u. nr. (Duebr. ), Roskilde Museum. HR<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:535114\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:535114&component=dkclarin:535113&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1780\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Kandestøbermærker",
+                "startDate": "1790",
+                "endDate": "1790",
+                "text": "Kandestøbermærker (manggods) for Christen Sørensen Windelin, Viborg 1790. Dansk Folkemuseum. HR<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:535130\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:535130&component=dkclarin:535129&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1790\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Kandestøbermærker",
+                "startDate": "1727",
+                "endDate": "1727",
+                "text": "Kandestøbermærke (engelsk tin) for Berendt Albricht, Næstved 1727. I lysestage, h. 19 cm. tilh. Harald Langberg. HR<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:535234\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:535234&component=dkclarin:535233&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1727\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Kandestøbermærker",
+                "startDate": "1761",
+                "endDate": "1761",
+                "text": "Kandestøbermærker for Joh. Andreas Ohrt, Tønder 1761. Tallerken, diam. 23,8 cm. , h. 2,3 cm. Tilhører overlæge Jens Hein, Tønder. HR<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:535266\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:535266&component=dkclarin:535265&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1761\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Kandestøbermærker",
+                "startDate": "1796",
+                "endDate": "1796",
+                "text": "Kandestøbermærke for Johann Caspar Koepcke, Itzehoe, mester 1756, død 24/4 1796. Engelsk tin, stempel indv, i fod af lysestage i privat eje. HR<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:535318\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:535318&component=dkclarin:535317&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1796\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Kandestøbermærker",
+                "startDate": "1748",
+                "endDate": "1748",
+                "text": "Kandestøbermærke (krontin) for Christen Pedersen Holm, Næstved 1748. Næstved museum. HR<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:535346\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:535346&component=dkclarin:535345&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1748\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Kandestøbermærker",
+                "startDate": "1724",
+                "endDate": "1724",
+                "text": "Kandestøbermærke, krontin, for Svend Christensen, Kbh. 1724. Ske, D 9643, Nat. Mus. 2. HR<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:535390\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:535390&component=dkclarin:535389&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1724\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Kandestøbermærker",
+                "startDate": "1777",
+                "endDate": "1777",
+                "text": "Kandestøbermærke, krontin, for Johan Grønnander, Kbh. 1777. Tallerken M 837b, Dansk Folkemuseum. HR<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:535442\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:535442&component=dkclarin:535441&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1777\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Kandestøbermærker",
+                "startDate": "1767",
+                "endDate": "1767",
+                "text": "Mesterstempel (engelsk tin) i lysestage for Joachim Scherffenberg, Helsingør 1767. Næstved Museum. HR<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:535486\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:535486&component=dkclarin:535485&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1767\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Kandestøbermærker",
+                "startDate": "1739",
+                "endDate": "1739",
+                "text": "Kandestøbermærker for HB 1739, Stentøjskrus med tinlåg, mus. nr. 1299, Tønder Museum. HR<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:535574\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:535574&component=dkclarin:535573&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1739\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Hammerværk",
+                "startDate": "1788",
+                "endDate": "1788",
+                "text": "Svanshammerstilling. Stik fra Sven Rinman: Bergwerks Lexicon, I Sthlm 1788, art. Kniphammareatällning, Tab. XIX, Fig. 6. Kort 1 af 2 kort.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:535634\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:535634&component=dkclarin:535633&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1788\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Velkomst",
+                "startDate": "1753",
+                "endDate": "1753",
+                "text": "Kleinsmedsvendelavet. D 669 Velkomst. Sølv. Højde indtil Løvens Hoved:0,362 m. Diameter for oven: 0,118 m. Diameter for neden: 0,145 m. Vægt: 1314 gr. Drevet,, knækket og svejfet Arbejde. Paa Laaget, der er prydet med 4 nedløbende Baandfremspring, staar en Løve, holdende mellem Forpoterne en forgyldt Medaille og bærende et Fløj paa Hovedet. Paa Medaillens vers findes Fr. III's Hoved og Omskriften: DOMINUS PEOVIDEBIT Paa Reversen hans Dronnings Hoved og Omskriften: SPES MEA IN DEO Fløjpladen, er prydet med 3 snirklede Tunger og bærer de tvende Indskrifter Indgraveret: Tilbageleveret Lavet 1901. Til ERINDRING TIL DIE ERINDE KLEIN SMEDE SVENNE DERES LADE FRA KROE FADER IOHAN PHILIP VON WERNER VED DERES SKIELD FLYTNING KIØBENHAVN DEN 2-den MEY 1785 ZUM ANDENKEN AN DIE ERSAME SCHLOSSER GESELLEN LADE VON IHREN KRUG VATER IOHAN PHILIP VON WERNER BEY IHREN SHILD FLVTTEN COPENHAGEN DEN 2-te MEY 1785 Fløjstangen ender med en Kugle, hvorpaa et Kors. Selve Pokalen har 2 udbuede Fremspring, som deles i Felter ved 4 Baandornamenter,der løber ned langs Siderne og fortsætter ud paa Fodstykket. I de 4 øverste Felter er Indskr: Af skielter en Pocal jeg er En Del dem gav, er her ey mer En deel er ned i graven lagt Dog lever de, mig har i agt. Aus schiltern ein Pocal zu nennen Ein Theil verreist, mir solte kennen Ein theil man schon zu grab gebracht Doch leben die, mich halt in acht. LadenMeister - Peder Rasmussen Borup - Mogens Nielsen Lassen 1755. - Alt gesell - Johan Christian Wiedersberg - Gerhardt Daniel Gertzen - Anno. I de tilsvarende Felter under Indskrifterne findes graveret i ornamentereDe Indfatningerde i symmetrisk Barokstil: 1) Et Ur, hvis Visere staar paa 12. 2) En Ørn, som i det nedstrakte Næb bærer 2 korslagte Nøgler. 3) En Nedstrakt Arm, som holder en Spore. 4) 2 korslagte Pistoler. Udvendig er de 8 Felter forgyldte, indvendig er saavel Pokalen som Laaget forgyldt. Under Bunden følgende Stempelmærker: Københavns Mærke 1753 Guardeinmærke: F HÖNE 1748 Maanedsmærke: (Jacob Hendrich Høne, 7/8 1748 - 1755, Frederiksbergg. ) Endvidere under Bunden graveret: Veg 86 L 3 q. De ovennævnte fire Fremstillinger symboliserer Lavets 4. Afdelinger:<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:535682\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:535682&component=dkclarin:535681&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1753\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Kandestøbermærker",
+                "startDate": "1758",
+                "endDate": "1758",
+                "text": "Kandestøbermærker (engelsk tin) for Søren Christensen Windelin, Viborg 1758. Terrin i privat eje. HR<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:535722\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:535722&component=dkclarin:535721&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1758\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Kandestøbermærker",
+                "startDate": "1782",
+                "endDate": "1782",
+                "text": "Kandestøbermærke, krontin, for Hans Michelsen Sperling, Kbh. 1782. Tallerken M 841h, Dansk Folkemuseum. HR<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:535906\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:535906&component=dkclarin:535905&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1782\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Kobberstik",
+                "startDate": "1700",
+                "endDate": "1700",
+                "text": "Nederlandsk bogbinderværksted fra omkring 1700. Der arbejdes med heftelad og hammer på slåsten. Kobberstik af Christoph Weigel, 1698.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:535914\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:535914&component=dkclarin:535913&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1700\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Kandestøbermærker",
+                "startDate": "1746",
+                "endDate": "1746",
+                "text": "Kandestøbermærker (engelsk tin) for Christen Nicolajsen Lemberg, Ålborg 1746. Dansk Folkemuseum. HR<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:535930\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:535930&component=dkclarin:535929&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1746\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Spindejenny",
+                "startDate": "1760",
+                "endDate": "1760",
+                "text": "Moderne kopi af James Hargreaves \"Spindejenny\" fra 1760'erne. Fot. er brugt som illustration til artiklen \"Den industrielle Revolution\" af Kristof Glaman. /ILN. Se \"Mennesket og Maskinen\" s. 12.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:535966\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:535966&component=dkclarin:535965&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1760\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Kandestøbermærker",
+                "startDate": "1710",
+                "endDate": "1710",
+                "text": "Kandestøbermærker, engelsk tin, for Olle (Schwensen) Ramberg, Kbh. 1710. Velkomst D 445, Dansk Folkemuseum. HR<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:535982\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:535982&component=dkclarin:535981&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1710\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Kandestøbermærker",
+                "startDate": "1732",
+                "endDate": "1732",
+                "text": "Kandestøbermærke (manggods) for Nicolai Munck, Odense 1732. Dansk Folkemuseum. HR<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:535994\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:535994&component=dkclarin:535993&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1732\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Fransk bageri",
+                "startDate": "1771",
+                "endDate": "1771",
+                "text": "Fransk bageri o. 1770. Stik i: \"Description des arts et métiers\" 1771. Lysbillede.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:537010\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:537010&component=dkclarin:537009&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1771\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Kandestøbermærker",
+                "startDate": "1763",
+                "endDate": "1763",
+                "text": "Diam. 22 cm. H. 2 cm. Randens br. 2,7 cm. Graveret rokokodekoration på rand og bund. På randen ejerinitialer: H N M 1763. Under bunden 3 stempler for kandestøber Peter Diederich Brandt, mester i Hamburg 1756 (Hintze III nr. 915). Passers antikvitetshandel, Nyhavn 18. HR<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:537110\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:537110&component=dkclarin:537109&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1763\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Kandestøbermærker",
+                "startDate": "1735",
+                "endDate": "1735",
+                "text": "Lågbolle. Kandestøbermærker (manggods) for Anders Pedersen, Ålborg 1735. Dansk Folkemuseum. HR<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:537262\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:537262&component=dkclarin:537261&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1735\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Kandestøbermærker",
+                "startDate": "1787",
+                "endDate": "1787",
+                "text": "Kandestøbermærke (manggods?) i tinkrus, dat. 1701. evt. kandestøbermester Bertel Lauesen, Holstebro (før 1787), død 1818. Herning Museum. HR<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:537362\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:537362&component=dkclarin:537361&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1787\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "MurerMurer",
+                "startDate": "1798",
+                "endDate": "1798",
+                "text": "Nyborg Museum. 18. /II 1798. Mål-skitse af skiltet. Kort 2 af 2.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:537534\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:537534&component=dkclarin:537533&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1798\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Kandestøbermærker",
+                "startDate": "1716",
+                "endDate": "1716",
+                "text": "Kandestøbermærke (krontin) for Johan Andersen, Fåborg 1716. Dansk Folkemuseum. HR<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:537538\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:537538&component=dkclarin:537537&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1716\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Drejer",
+                "startDate": "1783",
+                "endDate": "1783",
+                "text": "Miniatureportræt af pibemager Christian Bruun (1746-1846). Miniaturen er malt af Magnus Ole Rasch (1783-1862). Miniaturen er lånt til Tobaksudstillingen i Nationalmuseet 1952 ved Hans Lassen af S. W. Matthes, Aldersrovej 7, Århus. Portrættet er udstillet som fotostat i “tobaksmontren” i rum 63 i Prinsens Palæ. 3. afd. brevjnournalnr. 400/52.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:537550\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:537550&component=dkclarin:537549&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1783\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Handskemager",
+                "startDate": "1749",
+                "endDate": "1749",
+                "text": "Dokumenter. Handskemagerlauget. a: Mrk: Peltzner og Handskemager Laugsbog fra anno 1684. b: Placat o. s. v.... . fra 1749. Gave til Dr. Hazelius fra Handskemager N. F. Larsen, København 1877. Nordiske Museet, Stockholm, Nr. 19. 784.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:537650\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:537650&component=dkclarin:537649&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1749\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Kandestøbermærker",
+                "startDate": "1744",
+                "endDate": "1744",
+                "text": "Kandestøbermærker, engelsk tin, for Hans Hinrich Poulsen Bringe, Kbh. 1744. I tallerken C 9, Dansk Folkemuseum. HR<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:537710\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:537710&component=dkclarin:537709&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1744\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Kandestøbermærker",
+                "startDate": "1781",
+                "endDate": "1781",
+                "text": "Kandestøbermærke, krontin, 1781. Fad, mus. nr. 515, Tønder Museum. HR<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:537926\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:537926&component=dkclarin:537925&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1781\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Tømrersvendestrejken",
+                "startDate": "1794",
+                "endDate": "1794",
+                "text": "Tømrersvendestrejken 1794. De strejkende svende føres fra Tømrerkroen til Kastellet af xen afdeling soldater. HR.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:538234\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:538234&component=dkclarin:538233&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1794\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Kandestøbermærker",
+                "startDate": "1751",
+                "endDate": "1751",
+                "text": "Kandestøbermærke, krontin, for Peder Johansen Schiønfeldt, Kbh. 1751. Bæger D 128q, Dansk Folkemuseum. HR<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:538326\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:538326&component=dkclarin:538325&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1751\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Bagerskilt",
+                "startDate": "1740",
+                "endDate": "1740",
+                "text": "Bagerskilt. Egetræ. Bly. Graagrøn, gul, rosa. Længde: 0. 96 m, højde: 0. 425 m. Forsynet med jernstiver bagpaa. Krone, kringle og strut gule. Englene kødfarvede med rosa gevandter. Ornamenter og blade graagrønne. - Navnepladen af bly, malet graa med sorte bogstaver. I en skrivelse af 20. 12. 1859 oplyser ejeren overlæge Viggo Starcke følgende: (Journ. nr. 32/1950). Bagerskilt, skåret i Egetræ, fra Mullerup Mølle, Drøsselbjerg Sogn. 96 cm. bredt. 42 1/2 cm. højt. Forsynet med Jernstiver bagpå. Øverste Kongekrone, Enevældens Laugsprivilegium. I midten den gule Bagerkringle. Under den en gul Strut (det hellige Brød). Ved siderne af den to små grønne Træer (Livets Træ, der giver os Kornet, og Kundskabens Træ, der dorarbejder det til Brød). Som Omfatning langs siderne to grønne Palmegrene eller Laurbærgrene. Yderst ved hver Side en Barok-Engel med rosafarvet Gevandt (Giv os i Dag vort Daglige Brød). Nederst en Zinc-Plade til at skifte ved Ejerskifte. På Bagsiden af denne Navnet på den sidste Møller, der havde Bageri samtidig i Mullerup: R. Christiansen 1876. Paa Forsiden min Tipoldefaders Navn: Hans Johansen 1775. Han havde baade Møllen, Bageriet og Kroen. (Han er født ca. 1743, blev Møller i Juni 1775, døde i Mullerup, begravet i Drøsselbjerg 17. 5. 1792. Gift 13. 10. 1780 i Drøsselbjerg med Ane Benjaminsdatter, ca. 1749 - 9. 1. 1791, efter at have været gift med Mette Maria Christens datter Skytte 9. 12. 1774 - født 1749, begravet 22. 9. 1779)Skiltet har siddet over Døren i mangfoldige År, Efter Oplysning fra den gamle Møller i Mullerup, der i 1939, da han hentede Skiltet ned fra Loftet til mig, fortalte at det først var blevet fjernet fra sin Plads i 1937, da der skulle sættes en elektrisk Lampe op over Døren. Datering: ca. 1720–1740. Viggo Starcke, \"Egegården\", Ørholm, Kongsns Lyngby. Kort 1 (af 3 Kort). Den fantasifulde udlægning af symbolerne maa staa for ejernes egen regning. Ejeren oplyste, at han havde selv ladet male tipoldefaderens navn og årstal paa blypladen (af ham kaldet zinc-plade) og vendt denne side udad. Ved fotograferingen vendtes den side fremefter, der havde siddet udad ved skiltets nedtagelse. - Skiltet har ikke været malet op af den nuværende ejer.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:538342\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:538342&component=dkclarin:538341&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1740\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Kandestøbermærker",
+                "startDate": "1712",
+                "endDate": "1712",
+                "text": "Kandestøbermærke, krontin, for Poul Hansen Bringe, Kbh. 1712. Stob D 817, Dansk Folkemuseum. HR<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:538430\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:538430&component=dkclarin:538429&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1712\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Kandestøbermærker",
+                "startDate": "1757",
+                "endDate": "1757",
+                "text": "Kandestøbermærke (engelsk tin) for Morten Mouritzen Lützen, Rødby 1757. Dansk Folkemuseum. HR<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:538522\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:538522&component=dkclarin:538521&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1757\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Velkomst",
+                "startDate": "1784",
+                "endDate": "1784",
+                "text": "Velkomst (Kandestøberlauget). Tin. Cylindrisk Krus med Hank og Laag. Graveret: Paa Forsiden et Postament, hvorpaa et Krus og Indskriften 16. May 1784. Derom Indskr. : \"Vi som tage, Vi som tage Glæden hvor den faaes Sørges løse Glæde aldrig Griller lade Komme nær af, Komme nær Glæden er før os. -So Förkünder so förkünder Gläden Troskabs Drift Og hvo med os ikke laugets skol wil Drikke. Gid han Drikke, gid han drikke Galde og Forgift. \" \"denne kande haver mester Magnus Schiönfeldt foräret Kannestöberlaugets svenne\" Stempel: \"M. I. S. 1764\" Indk. af Dr. Hazelius 1877. Nordiska Museet, Stockholm, Nr. 19. 775. Magnus Johansen Schønfeldt, Kbhvn. Mester 1764. Stempel for \"Kronetin\".<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:538542\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:538542&component=dkclarin:538541&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1784\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Kandestøbermærker",
+                "startDate": "1705",
+                "endDate": "1705",
+                "text": "Kandestøbermærke (krontin) for Rutger Christopher Schultz, Roskilde (ef. 1705). Dansk Folkemuseum. HR<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:538694\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:538694&component=dkclarin:538693&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1705\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Snedkersvendelavet",
+                "startDate": "1770",
+                "endDate": "1770",
+                "text": "Snedkersvendelavets optog ved skilteflytning i København 7. maj 1770. Affot. af stik i en trykt beretning derover, der er trykt i Kbhvn. 1770.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:538858\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:538858&component=dkclarin:538857&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1770\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Skafferstok",
+                "startDate": "1730",
+                "endDate": "1730",
+                "text": "Kleinsmedesvendelavet. D 673 Skafferstok. Malet og delvis forgyldt Træ med 4 Sølvskilte Højde: 1,29 m. Skiltefladen: 0,055 m. br, Det ny Stykke: 0,54 m. h. Øverst er anbragt en nyere Sølvknap paa Spidsen af det spidst udløbende Endestykke, som foroven er rødmalet og derunder blaamalet med forgyldte Ornamenter og Forsiringer. Paa et firkantet Mellemparti er anbragt fire Skilte, de tre med Kleinsmedenes og Bøssemagernes Emblemer og Aarstallet: 1648 Det fjerde med Urmagernes Emblem og Aarstallet: 1730 Skiltene har alle et udbuet Midtparti og ens Ornamentering i Renaissancestil. Under Skiltene er anbragt fire Havfruefigurer med fremspringende Skælhale, snoet. Figurernes Overkrop er rødmalet, med forgyldte Forsiringer og Halen grøn, og ligeledes med forgyldte Sirater. Midtpartiet hviler paa en flad, firkantet Plade, som danner Overdelen af et søjleformet, Bladsirater udsmykket Parti, i Bunden blaat- og sortmalet med enkelte røde Smaaflader og med Paalægning af Guld. Den nederste Halvdel af Stokken er fra steams Tid, af temmelig simpelt drejet Arbejde, Bg ganske som den anden, yngre Skafferstok, D 674, og sortmalet og delvis forgyldt som denne. Tilbageleveret Lavet i 1901. Paa Midtpartiet er Stokken afbrudt mellem Figurerne og restaureret, dels ved Hjælp af en omlagt Messingring, dels ved fire, mellem Figurerne anbragte, snoede Stivere af Kobber. Skafferstokken ogsaa samtidig med Sølvskiltene, 1648.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:538886\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:538886&component=dkclarin:538885&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1730\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Skorstenfejerdreng",
+                "startDate": "1750",
+                "endDate": "1750",
+                "text": "Skorstensfejerdreng efter maleri 0. 1750 på herregården Bidstrup. Lysbillede samme neg. nr.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:539038\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:539038&component=dkclarin:539037&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1750\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Bagerskilt",
+                "startDate": "1775",
+                "endDate": "1775",
+                "text": "Farveoptagelse af bagerskiltet, med navneskiltets ældre inskription fremadvendt: 1775 Hans Johansen 1775. Neg. ÷ Foto optaget ved skiltets ejer, dr. Viggo Starcke. Neg. hos samme.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:539090\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:539090&component=dkclarin:539089&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1775\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Kandestøbermærker",
+                "startDate": "1704",
+                "endDate": "1704",
+                "text": "Kandestøbermærke (krontin) for Søren Andersen, Fåborg 1704. Dansk folkemuseum. HR<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:539274\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:539274&component=dkclarin:539273&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1704\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Kandestøbermærker",
+                "startDate": "1728",
+                "endDate": "1728",
+                "text": "Kandestøbermærker (manggods) for Søren Christiansen, Åbenrå 1728. Dansk Folkemuseum. HR<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:539550\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:539550&component=dkclarin:539549&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1728\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Kandestøbermærker",
+                "startDate": "1755",
+                "endDate": "1755",
+                "text": "Kandestøbermærke (manggods?) for sandsynligvis Jacob Anthoni Meyer, Nakskov 1755. Dansk Folkemuseum. HR<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:539634\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:539634&component=dkclarin:539633&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1755\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Kandestøbermærker",
+                "startDate": "1795",
+                "endDate": "1795",
+                "text": "Kandestøbermærke, engelsk tin, for Magnus Dahlgreen, Kbh. 1795. Lysestage i privat eje (Bodil Lebech). HR<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:539802\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:539802&component=dkclarin:539801&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1795\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Kandestøbermærker",
+                "startDate": "1762",
+                "endDate": "1762",
+                "text": "Kandestøbermærker (manggods) for Johan Jürgen Langheim, Haderslev 1761 (1762). Roskilde Museum. HR<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:540078\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:540078&component=dkclarin:540077&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1762\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Kandestøbermærker",
+                "startDate": "1707",
+                "endDate": "1707",
+                "text": "Kandestøbermærker sandsynligvis for Lorentz Ehmsen, Tønder 1707. Lysestage h. 14,3 cm, fodens diam. 11,2 cm. Tønder Museum. HR<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:540210\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:540210&component=dkclarin:540209&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1707\">Søg Alle</a>\" fra denne periode."
+                }
+            }
+        ]
+    }
+}

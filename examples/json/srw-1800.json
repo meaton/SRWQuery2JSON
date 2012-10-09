@@ -1,0 +1,562 @@
+{
+    "timeline": {
+        "type": "default",
+        "headline": "Demo: Tekster fra 1950-1960",
+        "text": " ",
+        "startDate": "1950",
+        "date": [
+            {
+                "headline": "Skydeskive",
+                "startDate": "1859",
+                "endDate": "1859",
+                "text": "Skydeskive. Diameter: 0. 62 meter. Tilhører Det Kongelige Københavnske Skydeselskab og Danske Broderskab. Ifølge Vejviseren 1859 boede bagermester Peter Sigfred Ryder St. Fiolstræde 222 (nu nr. 31)Bogen om Det Kongelige Skydeselskab nr. 847.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:475240\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:475240&component=dkclarin:475239&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1859\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Skydeskive",
+                "startDate": "1818",
+                "endDate": "1818",
+                "text": "Skydeskive. Diameter: 0. 625 m. Tilhører Det Kongelige Københavnske Skydeselskab og Danske Broderskab. Ifølge Vejviseren 1818 boede bagermester Klein Store Kiøbmagergade 62.Bogen om Det Kongelige Skydeselskab nr. 434.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:475348\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:475348&component=dkclarin:475347&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1818\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Skydeskive",
+                "startDate": "1866",
+                "endDate": "1866",
+                "text": "Skydeskive. Diameter: 0. 625 meter. Tilhører Det Kongelige Københavnske Skydeselskab og Danske Broderskab. Ifølge Vejviseren 1866 boede bagermester W. Chr. Piper Vesterbrogade 65 (før 57).Bogen om Det Kongelige Skydeselskab nr.   909.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:475404\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:475404&component=dkclarin:475403&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1866\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Skydeskive",
+                "startDate": "1853",
+                "endDate": "1853",
+                "text": "Skydeskive. Diamameter: 0. 62 meter. Tilhører Det Kongelige Københavnske Skydeselskab og Danske Broderskab. Ifølge Vejviseren 1853 boede bagermester Christian Wilhelm Ryder Vimmelskaftet 140 (nu nr. 37)Bogen om Det Kongelige Skydeselskab nr.   779.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:475528\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:475528&component=dkclarin:475527&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1853\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Skydeskive",
+                "startDate": "1810",
+                "endDate": "1810",
+                "text": "Skydeskive. Diameter: 0. 62 meter. Tilhører Det Kongelige Københavnske Skydeselskab og Danske Broderskab. Ifølge Vejviseren 1810 boede bagermester Hamborg Vesterbro 25.Bogen om Det Kongelige Skydeselskab nr. 370.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:475568\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:475568&component=dkclarin:475567&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1810\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Skydeskive",
+                "startDate": "1895",
+                "endDate": "1895",
+                "text": "Skydeskive. Diameter: 0. 635 meter. Tilhører Det Kongelige Københavnske Skydeselskab og Danske Broderskab,Ifølge Vejviseren 1895 boede bagermester V. Olsen St. Kongensgade 34.Bogen om Det Kongelige Skydeselskab nr. 1232.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:475604\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:475604&component=dkclarin:475603&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1895\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Skydeskive",
+                "startDate": "1850",
+                "endDate": "1850",
+                "text": "Skydeskive. Diameter: 0. 615 meter. Tilhører Det Kongelige Københavnske Skydeselskab og Danske Broderskab. Ifølge Vejviseren 1850 boede bagermester Jubye Læderstræde 30.Bogen om Det Kongelige Skydeselskab nr. 756. Lysbillede, samme negativ nummer.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:475712\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:475712&component=dkclarin:475711&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1850\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Skydeskive",
+                "startDate": "1847",
+                "endDate": "1847",
+                "text": "Skydeskive. Diameter: 0. 625 meter. Tilhører Det Kongelige Københavnske Skydeselskab og Danske Broderskab. Ifælge Vejviseren 1847 boede bagermester J. Fr. Gætje Nørrebro 40 (Vejviseren 1862 Bagermester J. F. Gætje Nørrebroes Fælledvej 10 (40))Bogen om Det Kongelige Skydeselskab nr. 725.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:475760\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:475760&component=dkclarin:475759&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1847\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Bagersvend",
+                "startDate": "1898",
+                "endDate": "1898",
+                "text": "Bagersvend. Nuværende bagermester M. Petersen, ÷Stolbro. M. Petersen lærte i Varnæs hos bagermester Johansen fra 1891-1895. Foto ca. 1898.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:477380\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:477380&component=dkclarin:477379&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1898\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Kleinsmed",
+                "startDate": "1897",
+                "endDate": "1897",
+                "text": "Svendevandringer. H. M. Henriksen, Ridehusgade 65 D, Odense, som 19 årig på valsen i Tyskland. Jfr. selvbiografi. Indsendt 30/10 1951.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:516662\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:516662&component=dkclarin:516661&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1897\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "To Skorstenfejere",
+                "startDate": "1891",
+                "endDate": "1891",
+                "text": "To skorstensfejere. Fot. lånt til affotografering af Fru A. M. Pedersen, Sjællandsgade 16, 3. sal. Th. hendes mand: Peder Jørgen Pedersen, f. 1891, d. 1964. Tv. Erik Petersen, senere skorstensfejermester i Ordrup. Affot. Niels Elswing, 1970. Brevjournal 350/70.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:517726\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:517726&component=dkclarin:517725&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1891\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Maleri af Skorstenfejer",
+                "startDate": "1839",
+                "endDate": "1839",
+                "text": "C. Schleisner: Børnene tyr til Bedstemor, da Skorstensfejeren kommer. Sign. C. Schleisner 1839. H. 0,61 m. Br, 0,66 m. Winkel & Magnussens Aukt. Nr. 340. Aukt. nr. 209. Rading fot. Neg. hos Winkel & Magnussen.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:518726\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:518726&component=dkclarin:518725&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1839\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Sadelmager",
+                "startDate": "1880",
+                "endDate": "1880",
+                "text": "Brd. F. & L. Dahlmann. Sadelmagere. Værkstedsbygningen bag Staldmestergården. Tøjhusgade 11 T. h. \"Lange Tøihus\" Fot. 26. 5. 1880. Affotograferet efter fotografi tilhørende fru Louise Tulinius, Vesterbrogade 50. Nat. Mus. fot. (Elsving)<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:518802\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:518802&component=dkclarin:518801&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1880\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Svendsens værksted",
+                "startDate": "1890",
+                "endDate": "1890",
+                "text": "Svendsens værksted, Stormgade 25, 1890'erne. Fra venstre: Kr. Olsen (Spytkristian) i lysthuset, Olsen, Perlt, lærling Peder Borgstrøm, Reinholt Svendsen. 1890'erne<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:519202\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:519202&component=dkclarin:519201&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1890\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Skorstenfejere",
+                "startDate": "1870",
+                "endDate": "1870",
+                "text": "Ejlstrup - distrikt i Sølvgade. Drengen nr. 2 fra venstre er W. A. Lind, der senere blev mester i København, han stod i lære 1866-1872. Fot. o. 1870.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:519378\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:519378&component=dkclarin:519377&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1870\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Krøllede Poulsen",
+                "startDate": "1894",
+                "endDate": "1894",
+                "text": "Kammerråd Poulsen, \"Krøllede Poulsen\", mester i Farimagsgade. Fot. skal være taget engang, da hans svende strejkede. Kammerråden trak da i arbejdstøjet for at vise, han nok selv skulle klare sagerne. Han menes ikke at være kommet meget længere end til fotografen. Fot. før 1894, antagelig 1890. ca. 1890<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:519478\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:519478&component=dkclarin:519477&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1894\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "C. W. Obel",
+                "startDate": "1887",
+                "endDate": "1887",
+                "text": "C. W. Obels 100. års jubilæum 1887 Affotograferet efter gl. fotografi tilh. C. W. Obel, Ålborg. Originalfotografiet udlånt af C. W. Obel til Tobaksudstillingen 19/10-2/11 1952. Affotograferet på Nationalmuseet november 1952.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:524946\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:524946&component=dkclarin:524945&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1887\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Slagter",
+                "startDate": "1899",
+                "endDate": "1899",
+                "text": "Slagter 1899. Fot. D. Post, Fåborg (8911). Negativ indkommet april 1964 fra Fåborg byhistoriske arkiv.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:525334\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:525334&component=dkclarin:525333&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1899\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Myhlenberg Teglværk",
+                "startDate": "1896",
+                "endDate": "1896",
+                "text": "Myhlenberg Teglværk, Arden 1896. Foto udlånt af: Fru Amine Kragelund Arden Rold.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:525894\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:525894&component=dkclarin:525893&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1896\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "På Hammeren",
+                "startDate": "1889",
+                "endDate": "1889",
+                "text": "Stenhuggere paa Hammeren. Bornholmere, Skåninger, Bleking-Småländinge og et par Italienere 1889. Alfred Kjøller fot. Allinge.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:526018\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:526018&component=dkclarin:526017&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1889\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Malerfirmaet Schrøder, Nielsen og Hansen",
+                "startDate": "1893",
+                "endDate": "1893",
+                "text": "Fra det gamle Værksted. 5. Værkstedsbygningen. Gaarden ved Peder Skramsgade 10, Baghus og Sidehus. Fot. antagelig 1893.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:528292\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:528292&component=dkclarin:528291&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1893\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Raadvad Knivfabrik",
+                "startDate": "1872",
+                "endDate": "1872",
+                "text": "Søren Gotfried Angel Giede, inspektør på Raadvaddam, 1842-1872. Affot. efter fot. udlånt af forlagsredaktør Viggo Hårlev, tipoldebarn af Giede. KK/BS. Kort 1 af 2.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:535090\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:535090&component=dkclarin:535089&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1872\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Vintapper",
+                "startDate": "1869",
+                "endDate": "1869",
+                "text": "Jens Dynesens Efterfølgers Vinhandel, Skolegade 21, Århus. Grundlagt af Jens Dynesen 1869. Indehaver 1903-27,Chr. Riis. Indehaver 1950 Chr,I. Meyer. Fru. Breum. Grosserer Breum. Vinhandler Chr. Riis,Århus,(1857-1927. ) Frk. Elisabeth jørgensen,Nakskov,(1870-1955. ) (Senere gift med Chr. Riis. ) Silkeborg Bad 1950. Kort 2 af 2.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:535198\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:535198&component=dkclarin:535197&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1869\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Stueskilt",
+                "startDate": "1888",
+                "endDate": "1888",
+                "text": "Kleinsmedesvendelavet. D 672 Stueskilt Bronceret Jern. Selve Nøglens Maal: Jernkronenes Maal: Længde: 1,15 m. Højde: 0,39 m. Bredde: 0,37 m. Diameter:0,43 m. Tykkelse: 0,18 m. Samlet Højde: 0,65 m. Bestaænde af en bronceret Jernnøgle, hængende i en bronceret Jernkrone. Haandtaget bærer yderst en kugleformet Knop, prydet med smedede Bladornamenter. Haandtaget selv er smedet i Form af talrige hinanden krydsende, symmetriske Slyngninger og Snirkler, hist og her ses paa Ydersiderne og paa Midterstangen Planteornamenter, smedede og graverede, samt Barne- og Mandshoder. Skaftet er lige og ved Haandtaget prydet med en tæt Krans af udsmedede Jernsnirkler. Skaftet selv er hult og har denne Profil: Nøglekammen er svær og gennembrudt af et helt System af smaa Sprækker. Paa Enden af Nøglekammen er udsmedet Indskriften: HANS MINNCH 1669. Tilbageleveret Lavet 1901. Nøglen er fastgjort til Jernkronen ved en svær Øsken, saaledes at den danner en Vægtstang, der kan bevæge sig. Jernkronen bestaar af en af en tyk Spiral omvunden Midtstang med Krog for oven. Fra Stangens øverste Del udgaar en tæt Krans af smedede Jernslyngninger, eller Bøjler, der dels bøjer nedefter og ind igen mod Stangen, saaledes at det hele faar Udseende af en flad kugleformet Udvidelse, hvor de mødes med en fra neden kommende Rkke snirklede Bøjler af lignende Art, kun langt mindre, dels bøjer opad paa samme Vis, mens nogle løber ud i Luften og er smedede i kunstigere Former. Det hele er nu bronceret, men har oprindelig været fortinnet. Se Tidsskr. f. Kunstind. 1888, S. 47, hvor Stueskiltet er afbildet.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:535282\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:535282&component=dkclarin:535281&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1888\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Antikke klokker",
+                "startDate": "1820",
+                "endDate": "1820",
+                "text": "Tre gamle, håndlavede klokker fra Daban. Den venstre harudhamret prikmønster og årstallet 1820. Den højre har øverst et monogram el. lign. , herunder med store bogstaver; FAIT, og herunder igen; 1813. Nederst dobbelt siksakmønster. Kort 3 af 3.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:535298\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:535298&component=dkclarin:535297&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1820\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Jernværket Engelsborg Bruk",
+                "startDate": "1800",
+                "endDate": "1800",
+                "text": "Jernværket \"Engelsborg bruk\" i Sverige stammer hovedsagelig fra begundelsen af 1800-årene. Fot. er brugt som illustration til artiklen \"Bevaring af Industrimiljøer\" af Paul Strømstad. /ILN Se \"Mennesket og Maskinen\" s. 205.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:535458\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:535458&component=dkclarin:535457&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1800\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Kandestøbermærker",
+                "startDate": "1812",
+                "endDate": "1812",
+                "text": "Kandestøbermærker for F. H. Thiessen, Tønder 1812. Herning Museum. HR<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:535478\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:535478&component=dkclarin:535477&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1812\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Kandestøbermærker",
+                "startDate": "1845",
+                "endDate": "1845",
+                "text": "Kandestøbermærke for Johan Heinrich Thiessen, Haderslev 1845. Dansk folkemuseum. HR<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:535542\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:535542&component=dkclarin:535541&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1845\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Væversken Marie Christine",
+                "startDate": "1852",
+                "endDate": "1852",
+                "text": "Væversken Marie Christine, f. Lorenzen, født på Sundeved gift med skrædder Jørgen Rasmussen, født i Lebøl, Als, født 1826 fik skrædderbevilling i 1852 blev gift i 1860-61. Originalfot. affot. 1966. lånt af fru Anna Jørgensen, Mindebjerg pr. Kirke Hørup, Als.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:535558\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:535558&component=dkclarin:535557&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1852\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Ubberud Mejeri",
+                "startDate": "1804",
+                "endDate": "1804",
+                "text": "Postkort Eneret 1804 Otto Svendsen Vesterg. 60, Odense Kultusmin. Journal Nr. 33/09.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:535630\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:535630&component=dkclarin:535629&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1804\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Sølvskjold",
+                "startDate": "1831",
+                "endDate": "1831",
+                "text": "Sølvskjold: Rimeligvis fra bøssemagerlavet på Kronborg geværfabrik. Måske brugt til udsmykning af ligklædet. Stempler: By: København 1835. Guardein: Chr. 0. Møller (1831-40). Mester: P. Simon Levin (borgerskab. 1815-54). Måned: Jomfruen. På bagsiden, påloddet split af sølv (?). Se kort 2. Skjoldet udlåntes til fotografering af ejeren J. Schou, Vesterbrogade 202 B, gennem dr. Arne Hoff, Tøjhusmuseet i novbr. 1959.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:535674\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:535674&component=dkclarin:535673&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1831\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Skydeskive",
+                "startDate": "1813",
+                "endDate": "1813",
+                "text": "Parver Johan Wilhelm Grundtvig Parver, kaptajn, senere graver. Ridder af Dannebrog. Født den 13. februar 1771 Lundforlund d. 17. August 1828 No. 360 Vejviseren 1813: Rosenborggade 153. Skydeskive No 360 fra Det Kongelige Kjøbenhavnske Skydeselskab og Danske Broderskab. Affotograferet feruar 1962.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:535690\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:535690&component=dkclarin:535689&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1813\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Væver Skydeskive",
+                "startDate": "1846",
+                "endDate": "1846",
+                "text": "Væver Isak Hendel Ruben Grosserer, tøjfabrikant, \"Cattunfabrikør\" f, 10. August 1790 d. 10. Decemb. 1868 No. 781 Vejviseren 1846: Cattunfabrikør, Kronprinsessegade 386 Vejviseren 1853: Cattunfabrikør, Kronprinsessegade 3-6 Skydeskive No 781 fra DET Kongelige Kjøbenhavnske Skydeselskab og Danske Broderselskab. 27. 7. 1853.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:535706\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:535706&component=dkclarin:535705&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1846\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Bageriet ved Hovedvagten",
+                "startDate": "1855",
+                "endDate": "1855",
+                "text": "Bageriet ved Hovedvagten. Bagermester Carl Lange Stibolt (1855-1938) fotograferet i gården til bageriet ved Hovedvagten sammen med sin søster (d. 1938). Bageriet blev indrettet af bagermester Jørgen Frederik Stibolt (d. l875), der kom fra Rønne til Christiansø, hvor han havde været brygger og bager fra 1850 til fæstningen blev nedlagt 1855.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:535770\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:535770&component=dkclarin:535769&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1855\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Lærebrev",
+                "startDate": "1881",
+                "endDate": "1881",
+                "text": "Lærebrev. Udstedt af bogbinderlavet i København. Dateret 26. April 1879. Tekst på dansk og tysk. forneden lavets stempel og under det en tilføjelse om at brevet er forevist på konsulatet i Géneve 25/4-1881. 43,5 x 40 cm. Til brevet har Theodor Marius Raff, da det blev for slidt af at ligge i hans lomme på valseturene, lavet et foderal af pap og mørkerød shirting. (se foto). Brevet er opklæbet på lærred. Brev og foderal ejes af nu afdøde bogbindermester Theodor Marius Raff's datter, lærerinde, frk. Edith Raff, Annebergvej 11, st. , Brh.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:535790\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:535790&component=dkclarin:535789&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1881\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Skydeskive",
+                "startDate": "1862",
+                "endDate": "1862",
+                "text": "Skydeskive. Diameter: 0. 65 meter. Tilhører Det Kongelige Københavnske Skydeselskab og Danske Broderskab. Ifølge Vejviseren 1862 boede bagermester F. A. G. Heinricy Graabrødretorv 17 (før nr. 103).Bogen om Det Kongelige Skydeselskab nr. 876.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:535806\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:535806&component=dkclarin:535805&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1862\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Arkitekt H. V. Brinkopff",
+                "startDate": "1837",
+                "endDate": "1837",
+                "text": "Tegning til Soveværelsemøblement. Tegningen signeret H. V. Brinkopff. 4-4 79. Tegningens Nr. : 40. Portierer, Sengehimmel, Gulvtæppe og Stol blaa. Vægfvldingerne vandblaa med stærkere blaa Profillister. Møblerne lvsedrap med mørkere Profillister. Gulvet drap med blaa Krvds. Hulkehlen brun, drap og blaa. Tegning til de enkelte Møbler se Neg. Nr. 20. 726, 20. 742, 20. 745. Tegningen er publiseret i den Serie For-Tegninger, som blev udgivet af \"Snedkeres Tegneforening af 1837. \" Ejer : Kunstindustrimuseet, København.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:535850\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:535850&component=dkclarin:535849&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1837\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Kandestøbermærker",
+                "startDate": "1807",
+                "endDate": "1807",
+                "text": "Kandestøbermærke, krontin, for Ole Johansen Walstrøm, Kbh. 1807. Velkomst D 489a, Dansk Folkemuseum. HR<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:535870\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:535870&component=dkclarin:535869&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1807\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Antikke klokker",
+                "startDate": "1825",
+                "endDate": "1825",
+                "text": "Antikke klokker. 9 gamle klokker fra Daban's virksomhed i Nay. Virksomheden er grundlagt i 1795 og var stadig i gang i 1965, men sandsynligvis da foran standsning. Brugen af klokker blandt hyrder var i tilbagegang, salget til turister dog stort, og Daban overvejede at åbne butik for turister i huset. Den store klokke med halsbånd har årstallet 1825. På begge sider af denne, gamle klokker med spidse skuldre, en type som er udgået for lang tid siden. De gamle klokker er håndlavede og samlede ved nagler, ellers er de fleste faconer tidløse. Klokkerne er fotograferede på Dabans spisebord oppe i \"privaten\" over værkstedet. Kort 1 af 3<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:537014\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:537014&component=dkclarin:537013&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1825\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Skræddersaks",
+                "startDate": "1840",
+                "endDate": "1840",
+                "text": "1800 Mål: 25 cm x 8 cm Første ejer: Niels Jacobsen Nuv. ejer: Karlo Kyndersen Opsund, Videbæk Danmarks folkelige Broderiers udst. Ringkøbing 1973, kvit. nr. 37752. Elswing fot. HF/IP Bem. Håndlavet af Niels Jacobsen. Døde år 1840 - 80 år gammel.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:537146\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:537146&component=dkclarin:537145&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1840\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Væver Skydeskive",
+                "startDate": "1815",
+                "endDate": "1815",
+                "text": "Væver Johan Gottlieb Cramer Klædefabrikant på Usserød, løjtnant. f. 12. sept. 1778 d. 20. marts 1855. No. 392. Vejviseren 1815: G. Cramer,Klædefabrikør, Vesterbroe 49 (A. Cramer, Klædefabrikør, Vesterbroe 47. Skydeskive No 392 fra Det Kongelige kjøb Kjøbenhavnske Skydeselskab og Danske Broderselskab. 12. 7. 1815<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:537186\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:537186&component=dkclarin:537185&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1815\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Konditor C.R.B. Jensen",
+                "startDate": "1867",
+                "endDate": "1867",
+                "text": "Konditor C. R. B. Jensen foran sit konditori Skt. Hansgade 3 m/familie og personale. Konditoriet grundlagt 13. okt. 1796. I 1867 overtog P. Herman Jensen forretningen. Hans søn, C. R. B. Jensen overtog konditoriet i 1893 og hans søn, Viggo Jensen overtog det i 1929, og i 1970 kom hans søn, Willi Jensen, til. Affotograferet efter foto af Eva Axelsen, Bocks Atelier, Ringsted. Kort 1 af 2.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:537222\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:537222&component=dkclarin:537221&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1867\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "J. Holms Guldsmedebutik",
+                "startDate": "1874",
+                "endDate": "1874",
+                "text": "J. Holms guldsmedebutik. Indehaveren fra I876, William Holm, søn af Johan Holm (1809–82), der I840 åbnede butikken i Sværtegade 6. (Fra 1874 i – i Sværtegade 4). Kompagnon fra 1905: guldsmed A. Jacobsen. Jvf. mus. nr. 3844–3871/1963.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:537306\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:537306&component=dkclarin:537305&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1874\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Kandestøbermærker",
+                "startDate": "1809",
+                "endDate": "1809",
+                "text": "Kandestøbermærke, krontin, for sandsynl. Jonas Søjberg, Kbh. 1809. Kande M 1091, Dansk Folkemuseum. HR<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:537330\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:537330&component=dkclarin:537329&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1809\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Velkomst",
+                "startDate": "1838",
+                "endDate": "1838",
+                "text": "Velkomst. (Kammagerlaugets). Tin. H. 0,24. Krus med Hank og Laag, hvorpaa Knap i Form af siddende Løve med Kugle imellem Poterne. Graveret paa Forsiden: 2 Løver, holdende en Kam. Derunder: Vivat! Kammagersvendene Leve! \"\"E. Hvid aus Copenhagen\"\" m. fl. 1838. Stempel indvendig i Bunden: 3 Taarne med Krone over, flankeret af Egeløv og Laurbærgrene: KRON TIN AC DAHLGREEN 1824 (?). Gave fra Kammagerlauget ved E. Kroll og Christensen, 1877. Nordiska Museet, Stockholm, Nr. 19. 790. Andreas Christian Dahlgreen, Kbhvn. Mester 1824. Stempel for \"Kronetin\".<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:537386\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:537386&component=dkclarin:537385&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1838\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Mesterlade",
+                "startDate": "1824",
+                "endDate": "1824",
+                "text": "Mesterlade Mahogni, eg, poppel ?, jern, sølv Højde 35 cm, Længde 57 cm, Bredde 39,5 cm. Poleret lavslade med sorte springlister. Lås, håndtag og hængsler af jern. På forsiden buntmagernes lavssymbol, et udspændt forværk med årstallet 1671. På hver side af det en stående løve på bagbenene; i forpoten holder de et sværd. Over forværket et barnehoved omgivet af bladværk eller måske vinger. Hele dette felt er udskåret i lyst, gulligt træ, poppel ? På forsiden desuden fire sortlakerede, snoede søjler. Låsen er på overside og sideflade ciseleret bl. a. med vrængemaske og snirkler. Låsens bredde foroven 12,7 cm. Indvendig i ladens venstre side en læddike. Indvendig i låget er fastskruet tre sølvbeslag, det midterste skjoldformet, de to andre rektangulære. I beslagene indgraveret inskription: Beslaget til venstre: Meatre indkomne i Lauget 1868 Carl le Dous 1868 Carl Eisinger 1874 C. A. Hartelius 1874 J. Trolle 1876 Wald: Hansen 1876 Theodor Grosz 1877 M. Iversen 1877 L. Næsborg 1877 W. Gradman 1879 Rudolph Jentzsch Beslaget i midten: J. L. Höppener 27. April 1824 J. Menne 8. Aug. 1829 H. Jacobsen 14. Juni 1830 H. L. Mortensen 16. Octbr. 1835 F. W. Lebrecht 7. Septbr. 1839 N. C. Hansen 30. Juli 1842 J. A. Spelty 3. Novbr. 1849 A. E. F. Büchner 4. Septbr. 1851 J. H. F. Volpers 13. Octbr. 1854 J. D. Ramm 3. Octbr. 1856 H. P. Hansen 11. Octbr. 1849 F. Uhlendorff 10. Septbr. 1857 J. C. D. C. Jentzsch 7. Juli 1827 P. J. Eisinger 13. Mai 1830 C. F. P. H. le Dous H. F. Brinckmann 15. Juli 1837 A. C. Trolle 13. Octbr. 1841 A. J. S. C. Bang 2. Dcbr. 1848 D. R. Paulsen 23. Novbr. 1850 C. C. Ransy 6. Octbr. 1853 C. H. Ransy 16. Novbr. 1854 C. F. Franke 3. Octbr. 1856 7. Aug. 1830 Alle Laugsmestere. Bund tmager Laugets Interessenter. Kjøbenhavn i Marts 1867. Beslaget til højre: 1888 . A. C. R. Büchner 1880 A. Waldhausen 1882 C. Holm 1884 Julius Jentzsch 1888 O. Bang 1888 L. Ahner 1889 C. Hartmann 1889 P. F. Spliid 1889 M. Lewinsky 1893 Th. Hein 1895 A. H. le Dous 1896 C. Brinckmann Laden er stadigvæk i lavets eje og bruges til opbevaring af lavets protokoller og dokumenter. Fortegnelse herover se Laden låntes december 1955 af oldermanden, buntmagermester Aage Leidersdorff, Vimmelskaftet 49, K, til fotografering og undersøgelse. Kort 1 af 3.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:537502\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:537502&component=dkclarin:537501&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1824\">Søg Alle</a>\" fra denne periode."
+                }
+            }
+        ]
+    }
+}

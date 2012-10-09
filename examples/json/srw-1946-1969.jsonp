@@ -1,0 +1,298 @@
+storyjs_jsonp_data = {
+    "timeline": {
+        "type": "default",
+        "headline": "Demo: Tekster fra 1950-1960",
+        "text": " ",
+        "startDate": "1950",
+        "date": [
+            {
+                "headline": "Laugslade",
+                "startDate": "1948",
+                "endDate": "1948",
+                "text": "Laugslade. Egetræ. Grønmalet med forgyldt. Indskrift: Bager Lavets Lade 18 8. Ældre rød maling under. Lg. 0,50 m. Br. 0,35 m. H. 0,26 m. Gave fra restauratør Jarvig, Maribo, købt af denne pa auktion i Maribo. Tilhører Laaland-Falster Museum, Maribo, nr. 14810. Restaureret og konserveret af A. C. , 1948. Fotograf: A. C. , 1948.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:477616\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:477616&component=dkclarin:477615&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1948\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Drejerværksted",
+                "startDate": "1947",
+                "endDate": "1947",
+                "text": "Drejerværkstedet i gården til ejendommen Borgergade 98, København K. Værkstedet indrette 1861. Vinduerne af nyere dato. Foto: Elswing, Nationalmuseet september 1947.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:485516\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:485516&component=dkclarin:485515&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1947\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Skilt for frisørstue",
+                "startDate": "1949",
+                "endDate": "1949",
+                "text": "Skilt for frisørstue. Gave fra magister Hans Lassen. Københavns Stadsarkivs fotografiske Atelier, foto: 1949.Jvf, Hans Lassen: \"Renlighed i Klunketiden\", 1950, nr. 19.Københavns Bymuseum.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:480012\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:480012&component=dkclarin:480011&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1949\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Grovsmed",
+                "startDate": "1946",
+                "endDate": "1946",
+                "text": "Gammel Smedje i Slangerup. Foto: A. Ludvigsen 10. 5. 1946<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:505652\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:505652&component=dkclarin:505651&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1946\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Skovens bageri",
+                "startDate": "1965",
+                "endDate": "1965",
+                "text": "Skovens Bageri, Jægerspris. Butikken. Gennem dør ses dampkedel til fugtning af ovnen. Kort 3 af 3. Fotograf: Kjeld Kayser, juni 1965.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:475220\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:475220&component=dkclarin:475219&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1965\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Vielsted Møllegård",
+                "startDate": "1963",
+                "endDate": "1963",
+                "text": "Vielsted Møllegård, beboelse og bageri, opført 1859. Brødvogn. Kusken: Laurids Rasmussen. Hestene hed BULFAS & CLAUS. Der solgtes rugbrød, sigtebrød og franskbrød fra vognen. Bageriet var uden butik, indrettet i kælderen til huset der blev opført 1859. Kort 3 af 3Affotograferet: N. M. 1963 (L. L. )<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:475280\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:475280&component=dkclarin:475279&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1963\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Bageovn",
+                "startDate": "1967",
+                "endDate": "1967",
+                "text": "Bageri i baghusets 1. etage. Det inderste af bageovnen efter at der var hugget hul ind til det. Ildfaste sten på kant ses i toppen. Kort 5 af 6. Foto taget i forbindelse med opgave B l0 af stud. mag. Henrik Vensild, april-maj 1967.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:475284\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:475284&component=dkclarin:475283&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1967\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Konditor",
+                "startDate": "1966",
+                "endDate": "1966",
+                "text": "Konditor. Affotograferet efter Stenders Haandværkerbrevkort Eneberettiget (Fotograf: Folkmann) Fotograf: Niels Elswing, april 1966.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:475484\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:475484&component=dkclarin:475483&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1966\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Gårdsdagens brød",
+                "startDate": "1969",
+                "endDate": "1969",
+                "text": "E. Rubow's Eftf. Tidligt om morgenen sælges gårdsdagens brød til nedsat pris. Frasorteret Gyldendals billedarkiv. Se også: gruppe G1F - Butikker og boder Top. nr. 3 - Vimmelsaftet 37 Neg. nr. ÷. Affotografering: Elswing 1969.Se: Alb. Gnudtzmann og H. Lind: Stor-København, Kbh.  og Kristiania 1907. Bind. I, s. 2. Billedet anvendt i bogen \"Københavnere fortæller,\" s. 78.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:475592\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:475592&component=dkclarin:475591&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1969\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Bagerskilt",
+                "startDate": "1961",
+                "endDate": "1961",
+                "text": "Skilt over bagerforretning. Fotograf: Ib Varnild 18. januar 1961.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:477088\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:477088&component=dkclarin:477087&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1961\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Blikkenslager",
+                "startDate": "1962",
+                "endDate": "1962",
+                "text": "Blikkenslager Johs. Larsen Edisonsvej 1 B, Frederiksberg. På væggen. Rensesplitte og slanger. Rørskærer. Bukkefjeder. Rørtang. På gulvet. Stor skruestik. Rørklub (til at skære gevind med). Lokkemaskine. Slagsaks. På bordet. Bertlemaskine. Forski. bertlehoveder. Svømmekugler. Pladestumper. GN/hp Fotograf: G. Nellemann 1962.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:480024\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:480024&component=dkclarin:480023&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1962\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Interiør fra værkstedet",
+                "startDate": "1964",
+                "endDate": "1964",
+                "text": "En dynge gult ler, blandet med hakket halm og dækket af en våd sæk. Leret er til indpakning af ferdige klokker, der skal brasseres. Sækken bukket til side af fotografen. Kort 6 af 6. Fotograf: Gerd S. Neubert august 1964.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:480072\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:480072&component=dkclarin:480071&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1964\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Bjældesmeds værksted",
+                "startDate": "1960",
+                "endDate": "1960",
+                "text": "Bjælde indpakket i ler. En færdig formet og samlet bjælde er belagt med strimler og stykker af kobber, derpå er bjælden ved at blive indpakket i ler. Gulligt ler fra omegnen, blandet og æltet med hakket halm. Bjælden dækkes helt, også mundingen, men her laves et lille hul, hvorigennem overflødig luft og gas kan slippe ud. En ferdig pakket bjælde kaldes et brød. Det bliver tørret, derpå opvarmet til ca. 1500 C i essen, drejet og vendt så kobberet fordeler sig jævnt, derpå igen afkølet. Processen kaldes brassering og bevirker dels en sammensvejsning af bjælden, dels en herdning af den bløde jernplade, dels bekyttende overtrækning med kobber. Kort 18 af 20. Foto Daban jr. 1960.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:480088\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:480088&component=dkclarin:480087&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1960\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Tuborgmand",
+                "startDate": "1968",
+                "endDate": "1968",
+                "text": "Facade, indgangsdør til butikken. Tuborgmanden bringer øl. fotograf: stud. mag. Lars Friis, 24/1-1968. Se optegnelser og opmålinger.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:484464\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:484464&component=dkclarin:484463&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1968\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Stort drivhjul til transportbånd",
+                "startDate": "1953",
+                "endDate": "1953",
+                "text": "Hellesens Enke og V. Ludvigsen. Stort drivhjul til transportbånd. Fotograf: Hauerslev. 8. oktober 1953.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:398004\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:398004&component=dkclarin:398003&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1953\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Virksomhedens bygning",
+                "startDate": "1954",
+                "endDate": "1954",
+                "text": "Hellesens Enke. Virksomhedens bygning. Fotograf: Hauerslev 24. juli 1954.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:475212\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:475212&component=dkclarin:475211&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1954\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Bageriet ved Hovedvagten",
+                "startDate": "1951",
+                "endDate": "1951",
+                "text": "Bageriet ved Hovedvagten. Indehaver fra 1938 bagermester M. Mortensen. Butikken. Fad,Træ. Hvidmalet med sorte initialer. Træfadene blev lavet som erstatning for porcelænsfade i perioden under og efter krigen, da det var umuligt at få porcelæn. M. M. d. v. s. M. Mortensen. Bageriet blev indrettet af bagermester Jørgen Frederik Stibolt (a. 1875), der kom til Rønne fra Christiansø, hvor han havde været brygger og bager fra 1850 til fæstningen blev nedlagt 1855. Fotograf: Nationalmuseet, Niels Elswing 1951.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:475276\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:475276&component=dkclarin:475275&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1951\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Brandts Konditori",
+                "startDate": "1956",
+                "endDate": "1956",
+                "text": "Bagermester Brandt. Fra konditoriet Gran på bordene i anledning af den forestående jul. Fotograf: Hauerslev 11. december 1956<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:475540\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:475540&component=dkclarin:475539&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1956\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Brødbil",
+                "startDate": "1957",
+                "endDate": "1957",
+                "text": "Københavns Brødfabrikker A/S. Brødkusken ved sin brødbil. Varerne bæres ind. Fotograf: Hauerslev 22. december 1957.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:475892\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:475892&component=dkclarin:475891&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1957\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Kvindelige bagere",
+                "startDate": "1958",
+                "endDate": "1958",
+                "text": "Kvindelige bagere; bageriet til Dalum Mølle, foto: 1902/03. Møllen ejedes af møller Østergaard Jacobsen. I forbindelse med møllen blev drevet et bageri med butik. Østergaard Jacobsens 4 døtre arbejdede både i bageriet og i butiken. Indenfor halvdøren: t. v. Valborg, t. h. Margrethe, siddende udenfor døren: Kirstine. Originalfotoet ejes 1958 af arkitekt Ester Andersen, Nationalmuseet. Affotograferet af L. Larsen, Nationalmuseet 1958.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:477060\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:477060&component=dkclarin:477059&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1958\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Bageriet Ramsherred",
+                "startDate": "1950",
+                "endDate": "1950",
+                "text": "Bageriet Ramsherred 2, Odense. Interiør: Bagermester Charles Hansen tager brød ud af ovnen. Ejendommen tilhører fabrikant Erik Stokkebye, Odense. Se optegnelserFoto: Fyens Stiftstidende August 1950.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:477212\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:477212&component=dkclarin:477211&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1950\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Bageri i Æreskøbing",
+                "startDate": "1955",
+                "endDate": "1955",
+                "text": "Bagerbutik, Brogade 28. Fotograf: A. C. 18. august 1955.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:477432\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:477432&component=dkclarin:477431&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1955\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Blytækker",
+                "startDate": "1959",
+                "endDate": "1959",
+                "text": "Blytækker (Michelsen, Hvidbjerg?) i arbejde på tårnet af Høje-Tåstrup kirke. Her ses arbejdspladsen neden for tårnet med ovnen, der er anbragt lige ved våbenhuset. Fotograf: Peter Michelsen, 6. maj 1959.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:480708\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:480708&component=dkclarin:480707&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1959\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Carlsberg ølvogn",
+                "startDate": "1952",
+                "endDate": "1952",
+                "text": "Fotograferet for bilforhandler fa. Grue & Co. Ølvogn tilhørende Carlsberg øldepotet i Gentofte. Der oplyses, at Påskebryg er udsolgt. Fotograf: Hauerslev 3. april 1952<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:484188\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:484188&component=dkclarin:484187&.jpg",
+                    "credit": "Nationalmuseet. Danmarks Nyere Tid",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1952\">Søg Alle</a>\" fra denne periode."
+                }
+            }
+        ]
+    }
+}
