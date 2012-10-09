@@ -9,3 +9,4 @@ To install
 ``npm install SRWQuery2JSON``
 
 See a [demo here](http://cst.dk/dighumlab/timeline/html/timeline.html).
+Built for and using data from [Clarin.dk](http://clarin.dk).
