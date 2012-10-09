@@ -8,5 +8,7 @@ Convert **[eSciDoc](/escidoc)** SRW Query XML responses to JSON (TimelineJS form
 To install
 ``npm install SRWQuery2JSON``
 
+Requires **libxml2** package (Unix)
+
 See a [demo here](http://cst.dk/dighumlab/timeline/html/timeline.html).
 Built for and using data from [Clarin.dk](http://clarin.dk).
