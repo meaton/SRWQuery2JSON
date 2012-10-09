@@ -47,7 +47,7 @@ var readFile = function(file) {
   });
 }
 
-/* Parse and pull data from the XMLDocument */
+// Parse and pull data from the XMLDocument
 var parse = function(doc) {
     var totalRecords = doc.get('//sru-zr:numberOfRecords', ns_obj).text();
     console.log('Total records in query: ' + totalRecords);
@@ -72,9 +72,6 @@ var parse = function(doc) {
 
 	json_obj.timeline.date.push(date_obj);
 	period_map[creation_date] = 1; // flag example as set
-
-        //console.log('title: ' + title, ' date: ' + creation_date + '\ndescription: ' + description);
-
       }
     });
 
@@ -87,14 +84,11 @@ var addOptImage = function(obj, item) {
 	var image = item.find('escidocComponents:components/escidocComponents:component/escidocComponents:properties[prop:mime-type="image/jpeg"]', ns_obj)[0];
 	if(image != null) {
 	  var href = image.attr('href').value().split('/');
-	  
 	  var itemID = href[3];
 	  var componentID = href[6];
 	  var publisher = item.get('escidocMetadataRecords:md-records/escidocMetadataRecords:md-record/CMD/Components/olac/publisher', ns_obj);
 	  var subject = item.get('escidocMetadataRecords:md-records/escidocMetadataRecords:md-record/CMD/Components/olac/subject', ns_obj);
-	  
 	  var credit = (publisher != null) ? publisher.text() : '';
-	  //var caption = (subject != null) ? subject.text() : '';
 	  var search_url = 'https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=' + obj.startDate;
 	  var caption = 'Eksempel. \"<a href=\"' + search_url + '\">Søg Alle</a>\" fra denne periode.';
 	  var url = 'https://clarin.dk/clarindk/download-proxy.jsp?item=' + itemID + '&component=' + componentID + '&.jpg';
@@ -129,16 +123,16 @@ var save = function() {
 
 // main execution function
 var main = function() {
-  // TimelineJS heading (config?)
-  json_obj.timeline = {type: 'default', headline: 'Demo: Tekster fra 1950-1960', text: ' ', startDate: '1950', date: []};
+  // TimelineJS heading (JSON config file or from data range?)
+  json_obj.timeline =  {type: 'default', headline: '', text: '', startDate: '', date: []};
   
   if(utile.isArray(argv.f)) {
     file_read_length = argv.f.length;
     temp_filename = path.basename(argv.f[0], path.extname(argv.f[0]))
-    for(var i=0; i<file_read_length; i++) readFile(argv.f[i]);
+    for(var i=0; i<file_read_length; i++) readFile(argv.f[i]); // read multiple files
   } else {
-    temp_filename = path.basename(argv.f, path.extname(argv.f));
-    readFile(argv.f);
+    temp_filename = path.basename(argv.f, path.extname(argv.f)); 
+    readFile(argv.f); // read single file input
   }
 }
 
