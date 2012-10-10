@@ -2,7 +2,7 @@
 /**
 * @author Mitchell Seaton
 */
-var fs = require('fs'), path = require('path'), utile = require('utile'), libxml = require('libxmljs');
+var fs = require('fs'), path = require('path'), utile = require('utile'), libxml = require('libxmljs'), moment = require('moment');
 var argv = require('optimist')
 		.usage('Convert eSciDoc SRW query results to JSON for TimelineJS.\nUsage: $0 -f [input]')
 		.demand(['f'])
@@ -58,21 +58,23 @@ var parse = function(doc) {
  
     // Add the timeline items
     utile.each(items, function(val, key) {
-      var creation_date = val.get('escidocMetadataRecords:md-records/escidocMetadataRecords:md-record/CMD/Components/olac/created', ns_obj).text();
+      var creation_date = new Date(val.get('escidocMetadataRecords:md-records/escidocMetadataRecords:md-record/CMD/Components/olac/created', ns_obj).text());
+      var creation_date_str = moment(creation_date).format('yyyy,mm,dd');
+
       var tag = val.get('escidocMetadataRecords:md-records/escidocMetadataRecords:md-record/CMD/Components/olac/conformsTo', ns_obj).text();
       if(tag.indexOf('IMDI') != -1) tag = tag.substring(0, tag.lastIndexOf('-')-1); // test data date: 2010-02-23
-      if(!period_map[tag][creation_date]) {
+      if(!period_map[tag][creation_date_str]) {
     	var title = val.attr('title').value();
     	var description = val.get('escidocMetadataRecords:md-records/escidocMetadataRecords:md-record/CMD/Components/olac/description', ns_obj).text();
 	var href_attr = val.attr('href').value().split('/');
 	var link_tag = '<a href=\"http://clarin.dk/clarindk/item.jsp?id=' + href_attr[href_attr.length-1] + '\">Vis ressource</a>';
 	
-	var date_obj = {headline: title, startDate: creation_date, endDate: creation_date, text: description + '<p>' + link_tag + '</p>'};
+	var date_obj = {headline: title, startDate: creation_date_str, endDate: creation_date_str, text: description + '<p>' + link_tag + '</p>'};
 	if(tag != null) date_obj.tag = tag;
 	date_obj = addOptImage(date_obj, val);	
 
 	json_obj.timeline.date.push(date_obj);
-	period_map[tag][creation_date] = 1; // flag example as set
+	period_map[tag][creation_date_str] = 1; // flag example as set
       }
     });
 
