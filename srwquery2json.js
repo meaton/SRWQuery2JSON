@@ -23,7 +23,7 @@ var argv = require('optimist')
 
 var is_json_p = argv.p; // true if we require JSONP (cross-domain, local)
 var xml_docs = new Array();
-var period_map = {'TEIP5DKCLARIN': {}, 'TEIP5': {}, 'AUDIO': {}, 'VIDEO': {}, 'LEX': {}, 'IMDI-SESSION'}, json_obj = {};
+var period_map = {'TEIP5DKCLARIN': {}, 'TEIP5': {}, 'AUDIO': {}, 'VIDEO': {}, 'LEX': {}, 'IMDI-SESSION':{}}, json_obj = {};
 var file_read_length = 1, temp_filename = null;
 
 // eSciDoc 1.3.x SRW 
