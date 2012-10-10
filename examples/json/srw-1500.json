@@ -1,9 +1,9 @@
 {
     "timeline": {
         "type": "default",
-        "headline": "Demo: Tekster fra 1950-1960",
-        "text": " ",
-        "startDate": "1950",
+        "headline": "",
+        "text": "",
+        "startDate": "",
         "date": [
             {
                 "headline": "Om den store Guds Bepaattelse, met Suæren oc Banden. Del C",
@@ -166,6 +166,18 @@
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:612134&component=dkclarin:612110&.jpg",
                     "credit": "af Ghemen, Gotfred",
                     "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1509\">Søg Alle</a>\" fra denne periode."
+                }
+            },
+            {
+                "headline": "Om den store Guds Bepaattelse, met Suæren oc Banden. Del A",
+                "startDate": "1557",
+                "endDate": "1557",
+                "text": "This text belongs to the Knowledge for Everyman Corpus of Danish texts from the period 1500-1750. The texts in the corpus represent various subject fields, e.g. medicine, piety, news, and are printed in black letter. The texts are displayed as transcriptions accompanied with facsimiles of the pages from the original editions. For further information, see http://duds.nordisk.ku.dk/<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:620164\">Vis ressource</a></p>",
+                "tag": "TEIP5DKCLARIN",
+                "asset": {
+                    "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:620164&component=dkclarin:620159&.jpg",
+                    "credit": "anonymous",
+                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1557\">Søg Alle</a>\" fra denne periode."
                 }
             },
             {
