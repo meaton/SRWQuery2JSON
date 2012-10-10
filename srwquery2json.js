@@ -58,23 +58,25 @@ var parse = function(doc) {
  
     // Add the timeline items
     utile.each(items, function(val, key) {
-      var creation_date = new Date(val.get('escidocMetadataRecords:md-records/escidocMetadataRecords:md-record/CMD/Components/olac/created', ns_obj).text());
-      var creation_date_str = moment(creation_date).format('yyyy,mm,dd');
+      var created_str = val.get('escidocMetadataRecords:md-records/escidocMetadataRecords:md-record/CMD/Components/olac/created', ns_obj).text();
+      var creation_date = null;
+      if(moment(created_str, 'YYYY-MM-DD').isValid()) creation_date = moment(created_str).format('YYYY,MM,DD');
+      else if(moment(created_str, 'YYYY').isValid()) creation_date = moment(created_str).format('YYYY');
 
       var tag = val.get('escidocMetadataRecords:md-records/escidocMetadataRecords:md-record/CMD/Components/olac/conformsTo', ns_obj).text();
       if(tag.indexOf('IMDI') != -1) tag = tag.substring(0, tag.lastIndexOf('-')-1); // test data date: 2010-02-23
-      if(!period_map[tag][creation_date_str]) {
+      if(!period_map[tag][creation_date]) {
     	var title = val.attr('title').value();
     	var description = val.get('escidocMetadataRecords:md-records/escidocMetadataRecords:md-record/CMD/Components/olac/description', ns_obj).text();
 	var href_attr = val.attr('href').value().split('/');
 	var link_tag = '<a href=\"http://clarin.dk/clarindk/item.jsp?id=' + href_attr[href_attr.length-1] + '\">Vis ressource</a>';
 	
-	var date_obj = {headline: title, startDate: creation_date_str, endDate: creation_date_str, text: description + '<p>' + link_tag + '</p>'};
+	var date_obj = {headline: title, startDate: creation_date, endDate: creation_date, text: description + '<p>' + link_tag + '</p>'};
 	if(tag != null) date_obj.tag = tag;
 	date_obj = addOptImage(date_obj, val);	
 
 	json_obj.timeline.date.push(date_obj);
-	period_map[tag][creation_date_str] = 1; // flag example as set
+	period_map[tag][creation_date] = 1; // flag example as set
       }
     });
 
@@ -85,6 +87,22 @@ var parse = function(doc) {
 // Look for any existing images to use (TEIP5DKCLARIN)
 var addOptImage = function(obj, item) {
 	var image = item.find('escidocComponents:components/escidocComponents:component/escidocComponents:properties[prop:mime-type="image/jpeg"]', ns_obj)[0];
+	var search_url = 'https://clarin.dk/clarindk/list.jsp?';
+	// type handling	
+	switch(obj.tag) {
+	  case 'TEIP5DKCLARIN': 
+	  case 'TEIP5': search_url += '&check_list_text=on'; break;
+	  case 'VIDEO': search_url += '&check_list_audio=on'; break;
+	  case 'AUDIO': search_url += '&check_list_video=on'; break;
+	  case 'IMDISESSION': search_url += '&check_list_imdisession=on'; break;
+	  case 'LEX': search_url += '&check_list_lex=on'; break;
+	  default: '';
+	}
+
+	search_url += '&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=';
+	search_url += (moment(obj.startDate, 'YYYY,MM,DD').isValid()) ? moment(obj.startDate).format('YYYY-MM-DD') : moment(obj.startDate).format('YYYY');
+	var caption = 'Eksempel. \"<a href=\"' + search_url + '\">Søg Alle</a>\" fra denne periode.';
+	  
 	if(image != null) {
 	  var href = image.attr('href').value().split('/');
 	  var itemID = href[3];
@@ -92,8 +110,6 @@ var addOptImage = function(obj, item) {
 	  var publisher = item.get('escidocMetadataRecords:md-records/escidocMetadataRecords:md-record/CMD/Components/olac/publisher', ns_obj);
 	  var subject = item.get('escidocMetadataRecords:md-records/escidocMetadataRecords:md-record/CMD/Components/olac/subject', ns_obj);
 	  var credit = (publisher != null) ? publisher.text() : '';
-	  var search_url = 'https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=' + obj.startDate;
-	  var caption = 'Eksempel. \"<a href=\"' + search_url + '\">Søg Alle</a>\" fra denne periode.';
 	  var url = 'https://clarin.dk/clarindk/download-proxy.jsp?item=' + itemID + '&component=' + componentID + '&.jpg';
 	  
 	  // add credit, caption, thumbnail(optional)
@@ -101,6 +117,7 @@ var addOptImage = function(obj, item) {
 	  console.log('Image found: ' + image.attr('href').value());
 	} else {
 	  console.log('No image found: ' + obj.headline);
+	  obj.text = obj.text + '<p>' + caption + '</p>';
 	} 
 
 	return obj;
