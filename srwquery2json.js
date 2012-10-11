@@ -86,7 +86,7 @@ var parse = function(doc) {
     if(file_read_length == 0) {
       utile.each(json_obj.timeline.date, function(val, key) {
 	var count = period_map[val.tag][val.startDate];
-	var caption = 'Eksempel 1 af ' + count + '. \"<a href=\"' + val.search_url + '\">Søg Alle</a>\" fra denne periode.';
+	var caption = 'Eksempel 1 af ' + count + '. \"<a href=\"' + val.search_url + '\">Søg Alle</a>\" af denne type fra denne periode.';
 	
 	if(utile.path(val, ['asset', 'media']) != null)
 	   val.asset.caption += caption;
