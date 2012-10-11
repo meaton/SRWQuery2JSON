@@ -1,0 +1,150 @@
+storyjs_jsonp_data = {
+    "timeline": {
+        "type": "default",
+        "headline": "",
+        "text": "",
+        "startDate": "",
+        "date": [
+            {
+                "headline": "DanNet 2.1, udgivet 15. september, 2011,  csv-version",
+                "startDate": "2011,09,15",
+                "endDate": "2011,09,15",
+                "text": " Beskrivelse:  \n\t\t\t\t\tDanNet er et forsknings- og udviklingsprojekt der går ud på at udarbejde\n\t\t\t\t\tet dansk leksikalsk-semantisk ordnet; dvs. en sprogresurse hvor ords \n\t\t\t\t\tbetydningsstruktur og interne relationer er udtrykt i et formelt sprog \n\t\t\t\t\tog derved gjort anvendelige for IT-systemer der arbejder med intelligent \n\t\t\t\t\tinformationshåndtering.<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:466174\">Vis ressource</a></p><p>Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_lex=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=2011-09-15\">Søg Alle</a>\" fra denne periode.</p>",
+                "tag": "LEX"
+            },
+            {
+                "headline": "CTB version: 80&apos;er-mode i køkkenet",
+                "startDate": "2011,01,22",
+                "endDate": "2011,01,22",
+                "text": "This text belongs to the DK-CLARIN Reference Corpus of General Danish, DK-CLARIN Repository Version, April 2012<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:701064\">Vis ressource</a></p><p>Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=2011-01-22\">Søg Alle</a>\" fra denne periode.</p>",
+                "tag": "TEIP5DKCLARIN"
+            },
+            {
+                "headline": "CTB version: (Hånd)skriften på væggen",
+                "startDate": "2011,02,03",
+                "endDate": "2011,02,03",
+                "text": "This text belongs to the DK-CLARIN Reference Corpus of General Danish, DK-CLARIN Repository Version, April 2012<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:712074\">Vis ressource</a></p><p>Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=2011-02-03\">Søg Alle</a>\" fra denne periode.</p>",
+                "tag": "TEIP5DKCLARIN"
+            },
+            {
+                "headline": "CTB version: Ungdomskultur på Facebook",
+                "startDate": "2011,02,08",
+                "endDate": "2011,02,08",
+                "text": "This text belongs to the DK-CLARIN Reference Corpus of General Danish, DK-CLARIN Repository Version, April 2012<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:712826\">Vis ressource</a></p><p>Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=2011-02-08\">Søg Alle</a>\" fra denne periode.</p>",
+                "tag": "TEIP5DKCLARIN"
+            },
+            {
+                "headline": "CTB version: Sprogdanskeligheder = godt ord!",
+                "startDate": "2011,02,11",
+                "endDate": "2011,02,11",
+                "text": "This text belongs to the DK-CLARIN Reference Corpus of General Danish, DK-CLARIN Repository Version, April 2012<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:712870\">Vis ressource</a></p><p>Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=2011-02-11\">Søg Alle</a>\" fra denne periode.</p>",
+                "tag": "TEIP5DKCLARIN"
+            },
+            {
+                "headline": "CTB version: Dansk dannelse.... som i NOT (!)",
+                "startDate": "2011,02,01",
+                "endDate": "2011,02,01",
+                "text": "This text belongs to the DK-CLARIN Reference Corpus of General Danish, DK-CLARIN Repository Version, April 2012<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:713542\">Vis ressource</a></p><p>Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=2011-02-01\">Søg Alle</a>\" fra denne periode.</p>",
+                "tag": "TEIP5DKCLARIN"
+            },
+            {
+                "headline": "CTB version: Vi tog kommentarfeltsfejl!!",
+                "startDate": "2011,02,27",
+                "endDate": "2011,02,27",
+                "text": "This text belongs to the DK-CLARIN Reference Corpus of General Danish, DK-CLARIN Repository Version, April 2012<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:714386\">Vis ressource</a></p><p>Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=2011-02-27\">Søg Alle</a>\" fra denne periode.</p>",
+                "tag": "TEIP5DKCLARIN"
+            },
+            {
+                "headline": "CTB version: Ærkedanske ord: æde, drikke, arm, ben, sove, elske, mor, far, skov, himmel, hav, træ",
+                "startDate": "2011,02,04",
+                "endDate": "2011,02,04",
+                "text": "This text belongs to the DK-CLARIN Reference Corpus of General Danish, DK-CLARIN Repository Version, April 2012<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:715072\">Vis ressource</a></p><p>Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=2011-02-04\">Søg Alle</a>\" fra denne periode.</p>",
+                "tag": "TEIP5DKCLARIN"
+            },
+            {
+                "headline": "CTB version: Ung radikal borgmester trådte i karakter at Jarls blog",
+                "startDate": "2011,01,19",
+                "endDate": "2011,01,19",
+                "text": "This text belongs to the DK-CLARIN Reference Corpus of General Danish, DK-CLARIN Repository Version, April 2012<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:724566\">Vis ressource</a></p><p>Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=2011-01-19\">Søg Alle</a>\" fra denne periode.</p>",
+                "tag": "TEIP5DKCLARIN"
+            },
+            {
+                "headline": "CTB version: Når pinlighederne står i kø… at Jarls blog",
+                "startDate": "2011,01,21",
+                "endDate": "2011,01,21",
+                "text": "This text belongs to the DK-CLARIN Reference Corpus of General Danish, DK-CLARIN Repository Version, April 2012<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:725026\">Vis ressource</a></p><p>Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=2011-01-21\">Søg Alle</a>\" fra denne periode.</p>",
+                "tag": "TEIP5DKCLARIN"
+            },
+            {
+                "headline": "CTB version: Sohns møde med virkeligheden at Jarls blog",
+                "startDate": "2011,01,18",
+                "endDate": "2011,01,18",
+                "text": "This text belongs to the DK-CLARIN Reference Corpus of General Danish, DK-CLARIN Repository Version, April 2012<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:725030\">Vis ressource</a></p><p>Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=2011-01-18\">Søg Alle</a>\" fra denne periode.</p>",
+                "tag": "TEIP5DKCLARIN"
+            },
+            {
+                "headline": "CTB version: Grauballemanden",
+                "startDate": "2011,01,14",
+                "endDate": "2011,01,14",
+                "text": "This text belongs to the DK-CLARIN Reference Corpus of General Danish, DK-CLARIN Repository Version, April 2012<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:875436\">Vis ressource</a></p><p>Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=2011-01-14\">Søg Alle</a>\" fra denne periode.</p>",
+                "tag": "TEIP5DKCLARIN"
+            },
+            {
+                "headline": "CTB version: Kulturlandskabet før og efter landboreformerne",
+                "startDate": "2011,02,25",
+                "endDate": "2011,02,25",
+                "text": "This text belongs to the DK-CLARIN Reference Corpus of General Danish, DK-CLARIN Repository Version, April 2012<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:879256\">Vis ressource</a></p><p>Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=2011-02-25\">Søg Alle</a>\" fra denne periode.</p>",
+                "tag": "TEIP5DKCLARIN"
+            },
+            {
+                "headline": "CTB version: Mellemkrigstiden",
+                "startDate": "2011,01,24",
+                "endDate": "2011,01,24",
+                "text": "This text belongs to the DK-CLARIN Reference Corpus of General Danish, DK-CLARIN Repository Version, April 2012<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:878720\">Vis ressource</a></p><p>Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=2011-01-24\">Søg Alle</a>\" fra denne periode.</p>",
+                "tag": "TEIP5DKCLARIN"
+            },
+            {
+                "headline": "CTB version: Vikingetiden",
+                "startDate": "2011,01,28",
+                "endDate": "2011,01,28",
+                "text": "This text belongs to the DK-CLARIN Reference Corpus of General Danish, DK-CLARIN Repository Version, April 2012<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:877620\">Vis ressource</a></p><p>Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=2011-01-28\">Søg Alle</a>\" fra denne periode.</p>",
+                "tag": "TEIP5DKCLARIN"
+            },
+            {
+                "headline": "CTB version: Danskernes interesse for EF/EU",
+                "startDate": "2011,01,04",
+                "endDate": "2011,01,04",
+                "text": "This text belongs to the DK-CLARIN Reference Corpus of General Danish, DK-CLARIN Repository Version, April 2012<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:876028\">Vis ressource</a></p><p>Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=2011-01-04\">Søg Alle</a>\" fra denne periode.</p>",
+                "tag": "TEIP5DKCLARIN"
+            },
+            {
+                "headline": "CTB version: Tidsperioder i Danmarkshistorien",
+                "startDate": "2011,02,18",
+                "endDate": "2011,02,18",
+                "text": "This text belongs to the DK-CLARIN Reference Corpus of General Danish, DK-CLARIN Repository Version, April 2012<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:875188\">Vis ressource</a></p><p>Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=2011-02-18\">Søg Alle</a>\" fra denne periode.</p>",
+                "tag": "TEIP5DKCLARIN"
+            },
+            {
+                "headline": "CTB version: Gøngehøvdingens hat",
+                "startDate": "2011,01,13",
+                "endDate": "2011,01,13",
+                "text": "This text belongs to the DK-CLARIN Reference Corpus of General Danish, DK-CLARIN Repository Version, April 2012<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:876096\">Vis ressource</a></p><p>Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=2011-01-13\">Søg Alle</a>\" fra denne periode.</p>",
+                "tag": "TEIP5DKCLARIN"
+            },
+            {
+                "headline": "CTB version: Besættelsestiden",
+                "startDate": "2011,01,05",
+                "endDate": "2011,01,05",
+                "text": "This text belongs to the DK-CLARIN Reference Corpus of General Danish, DK-CLARIN Repository Version, April 2012<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:878756\">Vis ressource</a></p><p>Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=2011-01-05\">Søg Alle</a>\" fra denne periode.</p>",
+                "tag": "TEIP5DKCLARIN"
+            },
+            {
+                "headline": "CTB version: Middelalderen",
+                "startDate": "2011,01,31",
+                "endDate": "2011,01,31",
+                "text": "This text belongs to the DK-CLARIN Reference Corpus of General Danish, DK-CLARIN Repository Version, April 2012<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:875880\">Vis ressource</a></p><p>Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=2011-01-31\">Søg Alle</a>\" fra denne periode.</p>",
+                "tag": "TEIP5DKCLARIN"
+            }
+        ]
+    }
+}

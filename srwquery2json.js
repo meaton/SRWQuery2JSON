@@ -23,7 +23,7 @@ var argv = require('optimist')
 
 var is_json_p = argv.p; // true if we require JSONP (cross-domain, local)
 var xml_docs = new Array();
-var period_map = {'TEIP5DKCLARIN': {}, 'TEIP5': {}, 'AUDIO': {}, 'VIDEO': {}, 'LEX': {}, 'IMDI-SESSION':{}}, json_obj = {};
+var period_map = {'TEIP5DKCLARIN': {}, 'TEIP5': {}, 'AUDIO': {}, 'VIDEO': {}, 'LEX': {}, 'IMDISESSION':{}, 'IMDI-SESSION-CHAT':{}, 'IMDI-SESSION-PRAT':{}, 'IMDI-SESSION-XML':{} }, json_obj = {};
 var file_read_length = 1, temp_filename = null;
 
 // eSciDoc 1.3.x SRW 
@@ -50,20 +50,21 @@ var readFile = function(file) {
 // Parse and pull data from the XMLDocument
 var parse = function(doc) {
     var totalRecords = doc.get('//sru-zr:numberOfRecords', ns_obj).text();
-    console.log('Total records in query: ' + totalRecords);
- 
     var items = doc.find('//escidocItem:item', ns_obj); 
+    console.log('Total records in query: ' + totalRecords);
+
     if(utile.isArray(items)) console.log('Found ' + items.length + ' items.');
     else console.error('Found 0 items in XMLDocument.');
  
     // Add the timeline items
     utile.each(items, function(val, key) {
-      var created_str = val.get('escidocMetadataRecords:md-records/escidocMetadataRecords:md-record/CMD/Components/olac/created', ns_obj).text();
       var creation_date = null;
+      var created_str = val.get('escidocMetadataRecords:md-records/escidocMetadataRecords:md-record/CMD/Components/olac/created', ns_obj).text();
+      var tag = val.get('escidocMetadataRecords:md-records/escidocMetadataRecords:md-record/CMD/Components/olac/conformsTo', ns_obj).text();
+
       if(moment(created_str, 'YYYY-MM-DD').isValid()) creation_date = moment(created_str).format('YYYY,MM,DD');
       else if(moment(created_str, 'YYYY').isValid()) creation_date = moment(created_str).format('YYYY');
 
-      var tag = val.get('escidocMetadataRecords:md-records/escidocMetadataRecords:md-record/CMD/Components/olac/conformsTo', ns_obj).text();
       if(tag.indexOf('IMDI') != -1) tag = tag.substring(0, tag.lastIndexOf('-')-1); // test data date: 2010-02-23
       if(!period_map[tag][creation_date]) {
     	var title = val.attr('title').value();
@@ -77,31 +78,48 @@ var parse = function(doc) {
 
 	json_obj.timeline.date.push(date_obj);
 	period_map[tag][creation_date] = 1; // flag example as set
+      } else {
+	period_map[tag][creation_date]++;
       }
     });
 
-    if(file_read_length == 0)
+    if(file_read_length == 0) {
+      utile.each(json_obj.timeline.date, function(val, key) {
+	var count = period_map[val.tag][val.startDate];
+	var caption = 'Eksempel 1 af ' + count + '. \"<a href=\"' + val.search_url + '\">Søg Alle</a>\" fra denne periode.';
+	
+	if(utile.path(val, ['asset', 'media']) != null)
+	   val.asset.caption += caption;
+	else
+	   val.text += '<p>' + caption + '</p>';
+      });
+      
       process.nextTick(save);
+    }
 }
 
 // Look for any existing images to use (TEIP5DKCLARIN)
 var addOptImage = function(obj, item) {
 	var image = item.find('escidocComponents:components/escidocComponents:component/escidocComponents:properties[prop:mime-type="image/jpeg"]', ns_obj)[0];
 	var search_url = 'https://clarin.dk/clarindk/list.jsp?';
+	
 	// type handling	
 	switch(obj.tag) {
 	  case 'TEIP5DKCLARIN': 
 	  case 'TEIP5': search_url += '&check_list_text=on'; break;
 	  case 'VIDEO': search_url += '&check_list_audio=on'; break;
 	  case 'AUDIO': search_url += '&check_list_video=on'; break;
+	  case 'IMDI-SESSION-PRAT':
+	  case 'IMDI-SESSION-CHAT':
+	  case 'IMDI-SESSION-XML':
 	  case 'IMDISESSION': search_url += '&check_list_imdisession=on'; break;
 	  case 'LEX': search_url += '&check_list_lex=on'; break;
 	  default: '';
 	}
 
 	search_url += '&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=';
+	
 	search_url += (moment(obj.startDate, 'YYYY,MM,DD').isValid()) ? moment(obj.startDate).format('YYYY-MM-DD') : moment(obj.startDate).format('YYYY');
-	var caption = 'Eksempel. \"<a href=\"' + search_url + '\">Søg Alle</a>\" fra denne periode.';
 	  
 	if(image != null) {
 	  var href = image.attr('href').value().split('/');
@@ -113,12 +131,13 @@ var addOptImage = function(obj, item) {
 	  var url = 'https://clarin.dk/clarindk/download-proxy.jsp?item=' + itemID + '&component=' + componentID + '&.jpg';
 	  
 	  // add credit, caption, thumbnail(optional)
-	  obj.asset = {media: url, credit: credit, caption: caption};
+	  obj.asset = {media: url, credit: credit, caption: ''};
 	  console.log('Image found: ' + image.attr('href').value());
 	} else {
 	  console.log('No image found: ' + obj.headline);
-	  obj.text = obj.text + '<p>' + caption + '</p>';
 	} 
+
+	obj.search_url = search_url;
 
 	return obj;
 }

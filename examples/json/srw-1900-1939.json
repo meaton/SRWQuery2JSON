@@ -14,8 +14,9 @@
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:475420&component=dkclarin:475419&.jpg",
                     "credit": "Nationalmuseet. Danmarks Nyere Tid",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1933\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 36. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1933\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1933"
             },
             {
                 "headline": "Fuglekongeskive",
@@ -26,8 +27,9 @@
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:477140&component=dkclarin:477139&.jpg",
                     "credit": "Nationalmuseet. Danmarks Nyere Tid",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1935\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 40. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1935\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1935"
             },
             {
                 "headline": "Blikkenslager Lauget",
@@ -38,8 +40,9 @@
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:480152&component=dkclarin:480151&.jpg",
                     "credit": "Nationalmuseet. Danmarks Nyere Tid",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1938\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 20. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1938\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1938"
             },
             {
                 "headline": "Rosenborg Brøndanstalt",
@@ -50,8 +53,9 @@
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:484212&component=dkclarin:484211&.jpg",
                     "credit": "Nationalmuseet. Danmarks Nyere Tid",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1930\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 36. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1930\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1930"
             },
             {
                 "headline": "Rosenborg Brøndanstalt",
@@ -62,8 +66,9 @@
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:484552&component=dkclarin:484551&.jpg",
                     "credit": "Nationalmuseet. Danmarks Nyere Tid",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1931\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 30. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1931\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1931"
             },
             {
                 "headline": "Grovsmed",
@@ -74,8 +79,9 @@
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:506712&component=dkclarin:506711&.jpg",
                     "credit": "Nationalmuseet. Danmarks Nyere tid",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1932\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 30. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1932\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1932"
             },
             {
                 "headline": "Drejer",
@@ -86,8 +92,9 @@
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:507748&component=dkclarin:507747&.jpg",
                     "credit": "Nationalmuseet. Danmarks Nyere tid",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1934\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 72. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1934\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1934"
             },
             {
                 "headline": "A/S Titan",
@@ -98,8 +105,9 @@
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:513818&component=dkclarin:513817&.jpg",
                     "credit": "Nationalmuseet. Danmarks Nyere Tid",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1939\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 21. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1939\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1939"
             },
             {
                 "headline": "Weilbach &amp; Cohn",
@@ -110,8 +118,9 @@
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:513898&component=dkclarin:513897&.jpg",
                     "credit": "Nationalmuseet. Danmarks Nyere Tid",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1937\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 31. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1937\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1937"
             },
             {
                 "headline": "A. Lassens Maskinfabrik",
@@ -122,8 +131,9 @@
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:515078&component=dkclarin:515077&.jpg",
                     "credit": "Nationalmuseet. Danmarks Nyere Tid",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1936\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 22. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1936\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1936"
             },
             {
                 "headline": "Brystfyringsovn",
@@ -134,8 +144,9 @@
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:477156&component=dkclarin:477155&.jpg",
                     "credit": "Nationalmuseet. Danmarks Nyere Tid",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1925\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 16. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1925\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1925"
             },
             {
                 "headline": "Konditor Vilhelm Boesen",
@@ -146,8 +157,9 @@
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:477392&component=dkclarin:477391&.jpg",
                     "credit": "Nationalmuseet. Danmarks Nyere Tid",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1920\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 23. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1920\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1920"
             },
             {
                 "headline": "Grønlandsk bageri",
@@ -158,8 +170,9 @@
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:480064&component=dkclarin:480063&.jpg",
                     "credit": "Nationalmuseet. Danmarks Nyere Tid",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1927\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 21. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1927\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1927"
             },
             {
                 "headline": "Nørresundby Brøndanstalt",
@@ -170,8 +183,9 @@
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:484064&component=dkclarin:484063&.jpg",
                     "credit": "Nationalmuseet. Danmarks Nyere Tid",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1926\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 27. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1926\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1926"
             },
             {
                 "headline": "Rosenborg Brøndanstalt",
@@ -182,8 +196,9 @@
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:484300&component=dkclarin:484299&.jpg",
                     "credit": "Nationalmuseet. Danmarks Nyere Tid",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1929\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 9. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1929\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1929"
             },
             {
                 "headline": "Bødker",
@@ -194,8 +209,9 @@
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:486892&component=dkclarin:486891&.jpg",
                     "credit": "Nationalmuseet. Danmarks Nyere Tid",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1924\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 18. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1924\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1924"
             },
             {
                 "headline": "Grovsmed",
@@ -206,8 +222,9 @@
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:506844&component=dkclarin:506843&.jpg",
                     "credit": "Nationalmuseet. Danmarks Nyere tid",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1923\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 9. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1923\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1923"
             },
             {
                 "headline": "Grovsmed",
@@ -218,8 +235,9 @@
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:507428&component=dkclarin:507427&.jpg",
                     "credit": "Nationalmuseet. Danmarks Nyere tid",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1922\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 6. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1922\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1922"
             },
             {
                 "headline": "Grovsmed",
@@ -230,8 +248,9 @@
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:508036&component=dkclarin:508035&.jpg",
                     "credit": "Nationalmuseet. Danmarks Nyere tid",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1921\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 3. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1921\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1921"
             },
             {
                 "headline": "Aalborg Possementfabrik",
@@ -242,8 +261,9 @@
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:519106&component=dkclarin:519105&.jpg",
                     "credit": "Nationalmuseet. Danmarks Nyere Tid",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1928\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 10. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1928\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1928"
             },
             {
                 "headline": "Konditori",
@@ -254,8 +274,9 @@
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:475432&component=dkclarin:475431&.jpg",
                     "credit": "Nationalmuseet. Danmarks Nyere Tid",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1904\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 9. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1904\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1904"
             },
             {
                 "headline": "Skydeskive",
@@ -266,8 +287,9 @@
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:475628&component=dkclarin:475627&.jpg",
                     "credit": "Nationalmuseet. Danmarks Nyere Tid",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1905\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 19. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1905\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1905"
             },
             {
                 "headline": "Bagersvend Bach",
@@ -278,8 +300,9 @@
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:477172&component=dkclarin:477171&.jpg",
                     "credit": "Nationalmuseet. Danmarks Nyere Tid",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1915\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 4. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1915\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1915"
             },
             {
                 "headline": "Rosenborg Brøndanstalt",
@@ -290,8 +313,9 @@
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:484024&component=dkclarin:484023&.jpg",
                     "credit": "Nationalmuseet. Danmarks Nyere Tid",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1919\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 5. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1919\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1919"
             },
             {
                 "headline": "Helsingørs Spritfabrik",
@@ -302,8 +326,9 @@
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:485568&component=dkclarin:485567&.jpg",
                     "credit": "Nationalmuseet. Danmarks Nyere Tid",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1914\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 12. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1914\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1914"
             },
             {
                 "headline": "Helsingørs Spritfabrik",
@@ -314,8 +339,9 @@
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:485960&component=dkclarin:485959&.jpg",
                     "credit": "Nationalmuseet. Danmarks Nyere Tid",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1910\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 12. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1910\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1910"
             },
             {
                 "headline": "Helsingørs Spritfabrik",
@@ -326,8 +352,9 @@
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:486032&component=dkclarin:486031&.jpg",
                     "credit": "Nationalmuseet. Danmarks Nyere Tid",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1902\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 12. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1902\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1902"
             },
             {
                 "headline": "Helsingørs Spritfabrik",
@@ -338,8 +365,9 @@
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:486100&component=dkclarin:486099&.jpg",
                     "credit": "Nationalmuseet. Danmarks Nyere Tid",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1909\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 14. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1909\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1909"
             },
             {
                 "headline": "Helsingørs Spritfabrik",
@@ -350,8 +378,9 @@
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:486708&component=dkclarin:486707&.jpg",
                     "credit": "Nationalmuseet. Danmarks Nyere Tid",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1903\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 15. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1903\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1903"
             },
             {
                 "headline": "Helsingørs Spritfabrik",
@@ -362,8 +391,9 @@
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:486888&component=dkclarin:486887&.jpg",
                     "credit": "Nationalmuseet. Danmarks Nyere Tid",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1906\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 12. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1906\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1906"
             },
             {
                 "headline": "Skibstømrerplads",
@@ -374,8 +404,9 @@
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:486952&component=dkclarin:486951&.jpg",
                     "credit": "Nationalmuseet. Danmarks Nyere Tid",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1908\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 11. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1908\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1908"
             },
             {
                 "headline": "Helsingørs Spritfabrik",
@@ -386,8 +417,9 @@
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:487168&component=dkclarin:487167&.jpg",
                     "credit": "Nationalmuseet. Danmarks Nyere Tid",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1900\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 14. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1900\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1900"
             },
             {
                 "headline": "Helsingørs Spritfabrik",
@@ -398,8 +430,9 @@
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:487268&component=dkclarin:487267&.jpg",
                     "credit": "Nationalmuseet. Danmarks Nyere Tid",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1918\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 5. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1918\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1918"
             },
             {
                 "headline": "Rørlægger",
@@ -410,8 +443,9 @@
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:505844&component=dkclarin:505843&.jpg",
                     "credit": "Nationalmuseet. Danmarks Nyere tid",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1907\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 9. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1907\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1907"
             },
             {
                 "headline": "Glasmagernes fagforening",
@@ -422,8 +456,9 @@
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:505988&component=dkclarin:505987&.jpg",
                     "credit": "Nationalmuseet. Danmarks Nyere tid",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1912\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 9. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1912\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1912"
             },
             {
                 "headline": "Th. Marstrands eftfl.",
@@ -434,8 +469,9 @@
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:515058&component=dkclarin:515057&.jpg",
                     "credit": "Nationalmuseet. Danmarks Nyere Tid",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1916\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 9. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1916\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1916"
             },
             {
                 "headline": "Maskinfabrik",
@@ -446,8 +482,9 @@
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:517258&component=dkclarin:517257&.jpg",
                     "credit": "Nationalmuseet. Danmarks Nyere Tid",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1901\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 11. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1901\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1901"
             },
             {
                 "headline": "Møller",
@@ -458,8 +495,9 @@
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:518094&component=dkclarin:518093&.jpg",
                     "credit": "Nationalmuseet. Danmarks Nyere Tid",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1913\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 12. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1913\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1913"
             },
             {
                 "headline": "Mælkekusk",
@@ -470,8 +508,9 @@
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:519098&component=dkclarin:519097&.jpg",
                     "credit": "Nationalmuseet. Danmarks Nyere Tid",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1911\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 8. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1911\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1911"
             },
             {
                 "headline": "MurerMurer",
@@ -482,8 +521,9 @@
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:519382&component=dkclarin:519381&.jpg",
                     "credit": "Nationalmuseet. Danmarks Nyere Tid",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1917\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 3. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1917\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1917"
             }
         ]
     }

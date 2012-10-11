@@ -14,8 +14,9 @@ storyjs_jsonp_data = {
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:475244&component=dkclarin:475243&.jpg",
                     "credit": "Nationalmuseet. Danmarks Nyere Tid",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1945\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 62. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1945\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1945"
             },
             {
                 "headline": "Mølles Bageri",
@@ -26,8 +27,9 @@ storyjs_jsonp_data = {
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:475344&component=dkclarin:475343&.jpg",
                     "credit": "Nationalmuseet. Danmarks Nyere Tid",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1944\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 112. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1944\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1944"
             },
             {
                 "headline": "Karosseri Fabrik",
@@ -38,8 +40,9 @@ storyjs_jsonp_data = {
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:475216&component=dkclarin:475215&.jpg",
                     "credit": "Nationalmuseet. Danmarks Nyere Tid",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1943\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 89. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1943\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1943"
             },
             {
                 "headline": "Magasin du Nord",
@@ -50,8 +53,9 @@ storyjs_jsonp_data = {
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:480288&component=dkclarin:480287&.jpg",
                     "credit": "Nationalmuseet. Danmarks Nyere Tid",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1942\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 62. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1942\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1942"
             },
             {
                 "headline": "Billedskærer Scherling",
@@ -62,8 +66,9 @@ storyjs_jsonp_data = {
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:480032&component=dkclarin:480031&.jpg",
                     "credit": "Nationalmuseet. Danmarks Nyere Tid",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1940\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 38. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1940\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1940"
             },
             {
                 "headline": "Fællesbagerier",
@@ -74,8 +79,9 @@ storyjs_jsonp_data = {
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:475320&component=dkclarin:475319&.jpg",
                     "credit": "Nationalmuseet. Danmarks Nyere Tid",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1941\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 56. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1941\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1941"
             }
         ]
     }

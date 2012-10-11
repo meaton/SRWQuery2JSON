@@ -14,8 +14,9 @@ storyjs_jsonp_data = {
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:448032&component=dkclarin:448028&.jpg",
                     "credit": "anonymous",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1633\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 6. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1633\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1633"
             },
             {
                 "headline": "Itzige Tjds Secretarius. Det er: En ny oc Fuldkommen Formular- oc Titular-Bog. Samlet bl.a. af N. Helvads Formular-Bog samt andre trykte bøger.",
@@ -26,8 +27,9 @@ storyjs_jsonp_data = {
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:449136&component=dkclarin:449135&.jpg",
                     "credit": "anonymous",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1666\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 3. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1666\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1666"
             },
             {
                 "headline": "En Ny oc skøn Fomular Bog",
@@ -38,8 +40,9 @@ storyjs_jsonp_data = {
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:449226&component=dkclarin:449213&.jpg",
                     "credit": "anonymous",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1625\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 6. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1625\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1625"
             },
             {
                 "headline": "Calendarium eller Almanach, paa det Aar, effter vor Herris Jesu Christi Naaderige Fødsel 1605",
@@ -50,8 +53,9 @@ storyjs_jsonp_data = {
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:449422&component=dkclarin:449379&.jpg",
                     "credit": "anonymous",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1604\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 1. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1604\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1604"
             },
             {
                 "headline": "Kort Beretning om den Comet-Stierne som sig om Morgenen fra Klock 3 til 5 her udi disse Lande mod Sydost haffver ladet see, udi dette Aar 1661.",
@@ -62,8 +66,9 @@ storyjs_jsonp_data = {
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:449602&component=dkclarin:449601&.jpg",
                     "credit": "anonymous",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1661\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 1. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1661\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1661"
             },
             {
                 "headline": "En Ny Bønebog, tilsammendragen aff de gamle lærefædre",
@@ -74,8 +79,9 @@ storyjs_jsonp_data = {
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:449810&component=dkclarin:449785&.jpg",
                     "credit": "anonymous",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1606\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 4. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1606\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1606"
             },
             {
                 "headline": "Catechesis paa det korteligste befatted, af Latinen, for de smaa i Scholerne, naar de hafue vel lærdt, stedse ad beholde.",
@@ -86,8 +92,9 @@ storyjs_jsonp_data = {
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:451120&component=dkclarin:451099&.jpg",
                     "credit": "anonymous",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1627\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 1. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1627\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1627"
             },
             {
                 "headline": "En nyttig Plante Bog om mange slags artige Imper oc Poder, oc huorledis mand skal sætte allehaande Fruct og Træ",
@@ -98,8 +105,9 @@ storyjs_jsonp_data = {
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:451200&component=dkclarin:451194&.jpg",
                     "credit": "anonymous",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1635\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 1. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1635\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1635"
             },
             {
                 "headline": "En liden Praxis Astrologica",
@@ -110,8 +118,9 @@ storyjs_jsonp_data = {
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:466212&component=dkclarin:466211&.jpg",
                     "credit": "anonymous",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1608\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 1. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1608\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1608"
             },
             {
                 "headline": "Vis oc sandferdig Beretning om tre Sole, saa vel som de selsomme store oc underlige Mirackler oc Tegn, som ere seet paa Himmelen ved Wiborrig oc andensteds i Jydland.",
@@ -122,8 +131,9 @@ storyjs_jsonp_data = {
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:505566&component=dkclarin:505563&.jpg",
                     "credit": "anonymous",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1664\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 1. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1664\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1664"
             },
             {
                 "headline": "Kandestøbermærker",
@@ -134,8 +144,9 @@ storyjs_jsonp_data = {
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:535202&component=dkclarin:535201&.jpg",
                     "credit": "Nationalmuseet. Danmarks Nyere Tid",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1654\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 2. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1654\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1654"
             },
             {
                 "headline": "Kandestøbermærker",
@@ -146,8 +157,9 @@ storyjs_jsonp_data = {
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:535262&component=dkclarin:535261&.jpg",
                     "credit": "Nationalmuseet. Danmarks Nyere Tid",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1685\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 2. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1685\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1685"
             },
             {
                 "headline": "Kandestøbermærker",
@@ -158,8 +170,9 @@ storyjs_jsonp_data = {
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:535294&component=dkclarin:535293&.jpg",
                     "credit": "Nationalmuseet. Danmarks Nyere Tid",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1673\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 1. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1673\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1673"
             },
             {
                 "headline": "Kandestøbermærker",
@@ -170,8 +183,9 @@ storyjs_jsonp_data = {
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:535302&component=dkclarin:535301&.jpg",
                     "credit": "Nationalmuseet. Danmarks Nyere Tid",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1647\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 1. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1647\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1647"
             },
             {
                 "headline": "Glarmesterskilt",
@@ -182,8 +196,9 @@ storyjs_jsonp_data = {
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:535354&component=dkclarin:535353&.jpg",
                     "credit": "Nationalmuseet. Danmarks Nyere tid",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1681\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 2. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1681\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1681"
             },
             {
                 "headline": "Snedker",
@@ -194,8 +209,9 @@ storyjs_jsonp_data = {
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:535474&component=dkclarin:535473&.jpg",
                     "credit": "Nationalmuseet. Danmarks Nyere Tid",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1698\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 4. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1698\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1698"
             },
             {
                 "headline": "Kandestøbermærker",
@@ -206,8 +222,9 @@ storyjs_jsonp_data = {
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:535550&component=dkclarin:535549&.jpg",
                     "credit": "Nationalmuseet. Danmarks Nyere Tid",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1680\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 3. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1680\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1680"
             },
             {
                 "headline": "Kandestøbermærker",
@@ -218,8 +235,9 @@ storyjs_jsonp_data = {
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:537170&component=dkclarin:537169&.jpg",
                     "credit": "Nationalmuseet. Danmarks Nyere Tid",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1668\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 2. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1668\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1668"
             },
             {
                 "headline": "Kandestøbermærker",
@@ -230,8 +248,9 @@ storyjs_jsonp_data = {
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:537454&component=dkclarin:537453&.jpg",
                     "credit": "Nationalmuseet. Danmarks Nyere Tid",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1674\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 1. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1674\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1674"
             },
             {
                 "headline": "Kandestøbermærker",
@@ -242,8 +261,9 @@ storyjs_jsonp_data = {
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:537630&component=dkclarin:537629&.jpg",
                     "credit": "Nationalmuseet. Danmarks Nyere Tid",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1695\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 2. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1695\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1695"
             },
             {
                 "headline": "Kandestøbermærker",
@@ -254,8 +274,9 @@ storyjs_jsonp_data = {
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:537802&component=dkclarin:537801&.jpg",
                     "credit": "Nationalmuseet. Danmarks Nyere Tid",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1682\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 1. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1682\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1682"
             },
             {
                 "headline": "Kandestøbermærker",
@@ -266,8 +287,9 @@ storyjs_jsonp_data = {
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:538086&component=dkclarin:538085&.jpg",
                     "credit": "Nationalmuseet. Danmarks Nyere Tid",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1660\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 1. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1660\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1660"
             },
             {
                 "headline": "Kandestøbermærker",
@@ -278,8 +300,9 @@ storyjs_jsonp_data = {
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:539014&component=dkclarin:539013&.jpg",
                     "credit": "Nationalmuseet. Danmarks Nyere Tid",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1679\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 1. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1679\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1679"
             },
             {
                 "headline": "Hjul- og Karetmager",
@@ -290,8 +313,9 @@ storyjs_jsonp_data = {
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:539030&component=dkclarin:539029&.jpg",
                     "credit": "Nationalmuseet. Danmarks Nyere Tid",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1689\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 1. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1689\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1689"
             },
             {
                 "headline": "Kandestøbermærker",
@@ -302,8 +326,9 @@ storyjs_jsonp_data = {
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:539510&component=dkclarin:539509&.jpg",
                     "credit": "Nationalmuseet. Danmarks Nyere Tid",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1694\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 2. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1694\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1694"
             },
             {
                 "headline": "Kandestøbermærker",
@@ -314,8 +339,9 @@ storyjs_jsonp_data = {
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:539542&component=dkclarin:539541&.jpg",
                     "credit": "Nationalmuseet. Danmarks Nyere Tid",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1600\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 1. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1600\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1600"
             },
             {
                 "headline": "Kandestøbermærker",
@@ -326,8 +352,9 @@ storyjs_jsonp_data = {
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:540042&component=dkclarin:540041&.jpg",
                     "credit": "Nationalmuseet. Danmarks Nyere Tid",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1656\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 1. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1656\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1656"
             },
             {
                 "headline": "Discursus de certa incertitudine rerum humanarum. Verdsens Speyl Del A",
@@ -338,8 +365,9 @@ storyjs_jsonp_data = {
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:580046&component=dkclarin:580025&.jpg",
                     "credit": "anonymous",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1648\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 3. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1648\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1648"
             },
             {
                 "headline": "Sandru ny Tiding: Som hafuer sig tildraget i næruerendis Aar, vdi Offuer Elsas i en liden By, ved naffn Altkirch, 3 mjle fra Mulhusz, huorledis mand paa Kirckegaarden vnder 3 Lindetræer haffuer hørt en gantske sød, lifflig oc skøn Musicke: aff tre hellige Guds Engle etc",
@@ -350,8 +378,9 @@ storyjs_jsonp_data = {
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:580190&component=dkclarin:580188&.jpg",
                     "credit": "anonymous",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1616\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 2. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1616\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1616"
             },
             {
                 "headline": "En almindelig Bøn at bruge i disse besværlige Tider og dagligen at bede oc læse baade i Kirchen og i Huset.",
@@ -362,8 +391,9 @@ storyjs_jsonp_data = {
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:595022&component=dkclarin:595021&.jpg",
                     "credit": "anonymous",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1675\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 4. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1675\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1675"
             },
             {
                 "headline": "Oost-Indisk Reise-Bog, hvor udi befattis hans Reise til Oost-indien saa vel og eendeel Platzers Beskrifvelse med en Andtall Hedningers Ceremonier etc. Del A",
@@ -374,8 +404,9 @@ storyjs_jsonp_data = {
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:595060&component=dkclarin:595053&.jpg",
                     "credit": "anonymous",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1678\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 3. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1678\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1678"
             },
             {
                 "headline": "Gamle Kierlingers Philosophi eller Spaadom, hvilcket de aff en halff Aars gammel Dreng erfaret, oc af en blind Qvinde, som det udi egen Person haffver set.",
@@ -386,8 +417,9 @@ storyjs_jsonp_data = {
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:597286&component=dkclarin:597285&.jpg",
                     "credit": "anonymous",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1676\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 1. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1676\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1676"
             },
             {
                 "headline": "En kort Vnderujsning Om Tienere Oc Tiunde, d.e. Huorledis Tienere oc Tiunde bør skicke sig imod deres Hosbonder oc Hustruer, som de tiene etc. Del C",
@@ -398,8 +430,9 @@ storyjs_jsonp_data = {
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:597536&component=dkclarin:597527&.jpg",
                     "credit": "anonymous",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1610\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 3. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1610\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1610"
             },
             {
                 "headline": "Kort, simpel oc sandferdig Vndervjisning, huorledis den gemeine Mand oc Almue, Borger eller Bondestands, som huercken kand komme til at bruge Doctores eller Apotecker",
@@ -410,8 +443,9 @@ storyjs_jsonp_data = {
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:623032&component=dkclarin:623020&.jpg",
                     "credit": "anonymous",
-                    "caption": "Eksempel. \"<a href=\"https://clarin.dk/clarindk/list.jsp?check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&fullsearch=&fullsearch-hidden=Title%2CPublisher+%28CopyrightOwner%29%2CCreator%2CDescription%2CSourceTitle%2CSubject&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1652\">Søg Alle</a>\" fra denne periode."
-                }
+                    "caption": "Eksempel 1 af 1. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1652\">Søg Alle</a>\" fra denne periode."
+                },
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1652"
             }
         ]
     }
