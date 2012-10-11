@@ -102,24 +102,22 @@ var parse = function(doc) {
 var addOptImage = function(obj, item) {
 	var image = item.find('escidocComponents:components/escidocComponents:component/escidocComponents:properties[prop:mime-type="image/jpeg"]', ns_obj)[0];
 	var search_url = 'https://clarin.dk/clarindk/list.jsp?';
+	search_url += '&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1='; // TODO: Clarin.dk login/role aware
+	search_url += (moment(obj.startDate, 'YYYY,MM,DD').isValid()) ? moment(obj.startDate).format('YYYY-MM-DD') : moment(obj.startDate).format('YYYY');
 	
-	// type handling	
+	// DKCLARIN type handling	
 	switch(obj.tag) {
-	  case 'TEIP5DKCLARIN': 
-	  case 'TEIP5': search_url += '&check_list_text=on'; break;
+	  case 'TEIP5DKCLARIN': search_url += '&logical-2=AND&metadata-2=DKCLARINType&equals-2=%3D&searchtext-2=TEIP5DKCLARIN&searchlist-2=TEIP5DKCLARIN&check_list_text=on'; break;
+	  case 'TEIP5': search_url += '&logical-2=AND&metadata-2=DKCLARINType&equals-2=%3D&searchtext-2=TEIP5&searchlist-2=TEIP5&check_list_text=on'; break;
 	  case 'VIDEO': search_url += '&check_list_audio=on'; break;
 	  case 'AUDIO': search_url += '&check_list_video=on'; break;
-	  case 'IMDI-SESSION-PRAT':
-	  case 'IMDI-SESSION-CHAT':
-	  case 'IMDI-SESSION-XML':
+	  case 'IMDI-SESSION-PRAT': search_url += '&logical-2=AND&metadata-2=DKCLARINType&equals-2=%3D&searchtext-2=IMDI-SESSION-PRAT&searchlist-2=IMDI-SESSION-PRAT&check_list_imdisession=on'; break;
+	  case 'IMDI-SESSION-CHAT': search_url += '&logical-2=AND&metadata-2=DKCLARINType&equals-2=%3D&searchtext-2=IMDI-SESSION-CHAT&searchlist-2=IMDI-SESSION-CHAT&check_list_imdisession=on'; break;
+	  case 'IMDI-SESSION-XML': search_url += '&logical-2=AND&metadata-2=DKCLARINType&equals-2=%3D&searchtext-2=IMDI-SESSION-XML&searchlist-2=IMDI-SESSION-XML&check_list_imdisession=on'; break;
 	  case 'IMDISESSION': search_url += '&check_list_imdisession=on'; break;
 	  case 'LEX': search_url += '&check_list_lex=on'; break;
 	  default: '';
 	}
-
-	search_url += '&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=';
-	
-	search_url += (moment(obj.startDate, 'YYYY,MM,DD').isValid()) ? moment(obj.startDate).format('YYYY-MM-DD') : moment(obj.startDate).format('YYYY');
 	  
 	if(image != null) {
 	  var href = image.attr('href').value().split('/');

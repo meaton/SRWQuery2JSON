@@ -9,9 +9,9 @@
                 "headline": "Om den store Guds Bepaattelse, met Suæren oc Banden. Del C",
                 "startDate": "1557",
                 "endDate": "1557",
-                "text": "This text belongs to the Knowledge for Everyman Corpus of Danish texts from the period 1500-1750. The texts in the corpus represent various subject fields, e.g. medicine, piety, news, and are printed in black letter. The texts are displayed as transcriptions accompanied with facsimiles of the pages from the original editions. For further information, see http://duds.nordisk.ku.dk/<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:620177\">Vis ressource</a></p><p>Eksempel 1 af 1. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1557\">Søg Alle</a>\" fra denne periode.</p>",
+                "text": "This text belongs to the Knowledge for Everyman Corpus of Danish texts from the period 1500-1750. The texts in the corpus represent various subject fields, e.g. medicine, piety, news, and are printed in black letter. The texts are displayed as transcriptions accompanied with facsimiles of the pages from the original editions. For further information, see http://duds.nordisk.ku.dk/<p><a href=\"http://clarin.dk/clarindk/item.jsp?id=dkclarin:620177\">Vis ressource</a></p><p>Eksempel 1 af 1. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1557&logical-2=AND&metadata-2=DKCLARINType&equals-2=%3D&searchtext-2=TEIP5&searchlist-2=TEIP5&check_list_text=on\">Søg Alle</a>\" fra denne periode.</p>",
                 "tag": "TEIP5",
-                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1557"
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1557&logical-2=AND&metadata-2=DKCLARINType&equals-2=%3D&searchtext-2=TEIP5&searchlist-2=TEIP5&check_list_text=on"
             },
             {
                 "headline": "En enfoldig vnderuisning paa Fader vor",
@@ -22,9 +22,9 @@
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:427279&component=dkclarin:427278&.jpg",
                     "credit": "Tidemand, Peder",
-                    "caption": "Eksempel 1 af 3. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1552\">Søg Alle</a>\" fra denne periode."
+                    "caption": "Eksempel 1 af 3. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1552&logical-2=AND&metadata-2=DKCLARINType&equals-2=%3D&searchtext-2=TEIP5DKCLARIN&searchlist-2=TEIP5DKCLARIN&check_list_text=on\">Søg Alle</a>\" fra denne periode."
                 },
-                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1552"
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1552&logical-2=AND&metadata-2=DKCLARINType&equals-2=%3D&searchtext-2=TEIP5DKCLARIN&searchlist-2=TEIP5DKCLARIN&check_list_text=on"
             },
             {
                 "headline": "Catechismus.",
@@ -35,9 +35,9 @@
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:449546&component=dkclarin:449544&.jpg",
                     "credit": "anonymous",
-                    "caption": "Eksempel 1 af 3. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1594\">Søg Alle</a>\" fra denne periode."
+                    "caption": "Eksempel 1 af 3. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1594&logical-2=AND&metadata-2=DKCLARINType&equals-2=%3D&searchtext-2=TEIP5DKCLARIN&searchlist-2=TEIP5DKCLARIN&check_list_text=on\">Søg Alle</a>\" fra denne periode."
                 },
-                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1594"
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1594&logical-2=AND&metadata-2=DKCLARINType&equals-2=%3D&searchtext-2=TEIP5DKCLARIN&searchlist-2=TEIP5DKCLARIN&check_list_text=on"
             },
             {
                 "headline": "Een sandferdig beskriffuilse om som wilde Mennisker oc Dyr wdi Indien, oc saa wdi andre omliggindis Landskab oc Konge Riger baade til Wand oe land, er seet.",
@@ -48,9 +48,9 @@
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:451004&component=dkclarin:451003&.jpg",
                     "credit": "anonymous",
-                    "caption": "Eksempel 1 af 1. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1559\">Søg Alle</a>\" fra denne periode."
+                    "caption": "Eksempel 1 af 1. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1559&logical-2=AND&metadata-2=DKCLARINType&equals-2=%3D&searchtext-2=TEIP5DKCLARIN&searchlist-2=TEIP5DKCLARIN&check_list_text=on\">Søg Alle</a>\" fra denne periode."
                 },
-                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1559"
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1559&logical-2=AND&metadata-2=DKCLARINType&equals-2=%3D&searchtext-2=TEIP5DKCLARIN&searchlist-2=TEIP5DKCLARIN&check_list_text=on"
             },
             {
                 "headline": "En forskreckelig oc sand bescriffuelse, om mange Troldfolck: som ere forbrende for deris Misgierninger skyld, fra det Aar 1589 regnendis",
@@ -61,9 +61,9 @@
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:451238&component=dkclarin:451233&.jpg",
                     "credit": "Benedicht, Lorentz",
-                    "caption": "Eksempel 1 af 4. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1591\">Søg Alle</a>\" fra denne periode."
+                    "caption": "Eksempel 1 af 4. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1591&logical-2=AND&metadata-2=DKCLARINType&equals-2=%3D&searchtext-2=TEIP5DKCLARIN&searchlist-2=TEIP5DKCLARIN&check_list_text=on\">Søg Alle</a>\" fra denne periode."
                 },
-                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1591"
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1591&logical-2=AND&metadata-2=DKCLARINType&equals-2=%3D&searchtext-2=TEIP5DKCLARIN&searchlist-2=TEIP5DKCLARIN&check_list_text=on"
             },
             {
                 "headline": "Tuenne sandrue, wbarmhiertelige … Beretning om det Tyranni, som Moskovitterne har bedrevet i Livland 1577",
@@ -74,9 +74,9 @@
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:451258&component=dkclarin:451254&.jpg",
                     "credit": "Vingaard, Mads",
-                    "caption": "Eksempel 1 af 1. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1577\">Søg Alle</a>\" fra denne periode."
+                    "caption": "Eksempel 1 af 1. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1577&logical-2=AND&metadata-2=DKCLARINType&equals-2=%3D&searchtext-2=TEIP5DKCLARIN&searchlist-2=TEIP5DKCLARIN&check_list_text=on\">Søg Alle</a>\" fra denne periode."
                 },
-                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1577"
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1577&logical-2=AND&metadata-2=DKCLARINType&equals-2=%3D&searchtext-2=TEIP5DKCLARIN&searchlist-2=TEIP5DKCLARIN&check_list_text=on"
             },
             {
                 "headline": "Børne Speigel",
@@ -87,9 +87,9 @@
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:597084&component=dkclarin:597080&.jpg",
                     "credit": "anonymous",
-                    "caption": "Eksempel 1 af 1. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1568\">Søg Alle</a>\" fra denne periode."
+                    "caption": "Eksempel 1 af 1. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1568&logical-2=AND&metadata-2=DKCLARINType&equals-2=%3D&searchtext-2=TEIP5DKCLARIN&searchlist-2=TEIP5DKCLARIN&check_list_text=on\">Søg Alle</a>\" fra denne periode."
                 },
-                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1568"
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1568&logical-2=AND&metadata-2=DKCLARINType&equals-2=%3D&searchtext-2=TEIP5DKCLARIN&searchlist-2=TEIP5DKCLARIN&check_list_text=on"
             },
             {
                 "headline": "Præservativ mod Pestilens.",
@@ -100,9 +100,9 @@
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:597200&component=dkclarin:597186&.jpg",
                     "credit": "anonymous",
-                    "caption": "Eksempel 1 af 1. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1553\">Søg Alle</a>\" fra denne periode."
+                    "caption": "Eksempel 1 af 1. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1553&logical-2=AND&metadata-2=DKCLARINType&equals-2=%3D&searchtext-2=TEIP5DKCLARIN&searchlist-2=TEIP5DKCLARIN&check_list_text=on\">Søg Alle</a>\" fra denne periode."
                 },
-                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1553"
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1553&logical-2=AND&metadata-2=DKCLARINType&equals-2=%3D&searchtext-2=TEIP5DKCLARIN&searchlist-2=TEIP5DKCLARIN&check_list_text=on"
             },
             {
                 "headline": "En nøttelig Legebog. Del A",
@@ -113,9 +113,9 @@
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:597250&component=dkclarin:597240&.jpg",
                     "credit": "Hoochstraten, Joh.",
-                    "caption": "Eksempel 1 af 1. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1533\">Søg Alle</a>\" fra denne periode."
+                    "caption": "Eksempel 1 af 1. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1533&logical-2=AND&metadata-2=DKCLARINType&equals-2=%3D&searchtext-2=TEIP5DKCLARIN&searchlist-2=TEIP5DKCLARIN&check_list_text=on\">Søg Alle</a>\" fra denne periode."
                 },
-                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1533"
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1533&logical-2=AND&metadata-2=DKCLARINType&equals-2=%3D&searchtext-2=TEIP5DKCLARIN&searchlist-2=TEIP5DKCLARIN&check_list_text=on"
             },
             {
                 "headline": "Twenne Besluttinge medt nogre Christelige raade aff Gudtz Oerdt, om Egteschabff.",
@@ -126,9 +126,9 @@
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:601050&component=dkclarin:601028&.jpg",
                     "credit": "anonymous",
-                    "caption": "Eksempel 1 af 1. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1530\">Søg Alle</a>\" fra denne periode."
+                    "caption": "Eksempel 1 af 1. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1530&logical-2=AND&metadata-2=DKCLARINType&equals-2=%3D&searchtext-2=TEIP5DKCLARIN&searchlist-2=TEIP5DKCLARIN&check_list_text=on\">Søg Alle</a>\" fra denne periode."
                 },
-                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1530"
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1530&logical-2=AND&metadata-2=DKCLARINType&equals-2=%3D&searchtext-2=TEIP5DKCLARIN&searchlist-2=TEIP5DKCLARIN&check_list_text=on"
             },
             {
                 "headline": "Om Børn at holde til skole Del A",
@@ -139,9 +139,9 @@
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:601080&component=dkclarin:601068&.jpg",
                     "credit": "anonymous",
-                    "caption": "Eksempel 1 af 3. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1531\">Søg Alle</a>\" fra denne periode."
+                    "caption": "Eksempel 1 af 3. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1531&logical-2=AND&metadata-2=DKCLARINType&equals-2=%3D&searchtext-2=TEIP5DKCLARIN&searchlist-2=TEIP5DKCLARIN&check_list_text=on\">Søg Alle</a>\" fra denne periode."
                 },
-                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1531"
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1531&logical-2=AND&metadata-2=DKCLARINType&equals-2=%3D&searchtext-2=TEIP5DKCLARIN&searchlist-2=TEIP5DKCLARIN&check_list_text=on"
             },
             {
                 "headline": "Mangehaande artige Kunster at berede godt Blæk.",
@@ -152,9 +152,9 @@
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:601374&component=dkclarin:601354&.jpg",
                     "credit": "Benedicht, Lorentz",
-                    "caption": "Eksempel 1 af 1. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1578\">Søg Alle</a>\" fra denne periode."
+                    "caption": "Eksempel 1 af 1. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1578&logical-2=AND&metadata-2=DKCLARINType&equals-2=%3D&searchtext-2=TEIP5DKCLARIN&searchlist-2=TEIP5DKCLARIN&check_list_text=on\">Søg Alle</a>\" fra denne periode."
                 },
-                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1578"
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1578&logical-2=AND&metadata-2=DKCLARINType&equals-2=%3D&searchtext-2=TEIP5DKCLARIN&searchlist-2=TEIP5DKCLARIN&check_list_text=on"
             },
             {
                 "headline": "Regnskab om en Mands Fortæring",
@@ -165,9 +165,9 @@
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:601392&component=dkclarin:601389&.jpg",
                     "credit": "anonymous",
-                    "caption": "Eksempel 1 af 1. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1550\">Søg Alle</a>\" fra denne periode."
+                    "caption": "Eksempel 1 af 1. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1550&logical-2=AND&metadata-2=DKCLARINType&equals-2=%3D&searchtext-2=TEIP5DKCLARIN&searchlist-2=TEIP5DKCLARIN&check_list_text=on\">Søg Alle</a>\" fra denne periode."
                 },
-                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1550"
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1550&logical-2=AND&metadata-2=DKCLARINType&equals-2=%3D&searchtext-2=TEIP5DKCLARIN&searchlist-2=TEIP5DKCLARIN&check_list_text=on"
             },
             {
                 "headline": "Nogre gudelige Bøner.",
@@ -178,9 +178,9 @@
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:612134&component=dkclarin:612110&.jpg",
                     "credit": "af Ghemen, Gotfred",
-                    "caption": "Eksempel 1 af 1. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1509\">Søg Alle</a>\" fra denne periode."
+                    "caption": "Eksempel 1 af 1. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1509&logical-2=AND&metadata-2=DKCLARINType&equals-2=%3D&searchtext-2=TEIP5DKCLARIN&searchlist-2=TEIP5DKCLARIN&check_list_text=on\">Søg Alle</a>\" fra denne periode."
                 },
-                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1509"
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1509&logical-2=AND&metadata-2=DKCLARINType&equals-2=%3D&searchtext-2=TEIP5DKCLARIN&searchlist-2=TEIP5DKCLARIN&check_list_text=on"
             },
             {
                 "headline": "Om den store Guds Bepaattelse, met Suæren oc Banden. Del A",
@@ -191,9 +191,9 @@
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:620164&component=dkclarin:620159&.jpg",
                     "credit": "anonymous",
-                    "caption": "Eksempel 1 af 2. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1557\">Søg Alle</a>\" fra denne periode."
+                    "caption": "Eksempel 1 af 2. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1557&logical-2=AND&metadata-2=DKCLARINType&equals-2=%3D&searchtext-2=TEIP5DKCLARIN&searchlist-2=TEIP5DKCLARIN&check_list_text=on\">Søg Alle</a>\" fra denne periode."
                 },
-                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1557"
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1557&logical-2=AND&metadata-2=DKCLARINType&equals-2=%3D&searchtext-2=TEIP5DKCLARIN&searchlist-2=TEIP5DKCLARIN&check_list_text=on"
             },
             {
                 "headline": "Tyrkens Tog til Rhodos 1480",
@@ -204,9 +204,9 @@
                 "asset": {
                     "media": "https://clarin.dk/clarindk/download-proxy.jsp?item=dkclarin:623070&component=dkclarin:623054&.jpg",
                     "credit": "af Ghemen, Gotfred",
-                    "caption": "Eksempel 1 af 1. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1508\">Søg Alle</a>\" fra denne periode."
+                    "caption": "Eksempel 1 af 1. \"<a href=\"https://clarin.dk/clarindk/list.jsp?&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1508&logical-2=AND&metadata-2=DKCLARINType&equals-2=%3D&searchtext-2=TEIP5DKCLARIN&searchlist-2=TEIP5DKCLARIN&check_list_text=on\">Søg Alle</a>\" fra denne periode."
                 },
-                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_text=on&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1508"
+                "search_url": "https://clarin.dk/clarindk/list.jsp?&check_list_access_public=on&check_list_access_academic=on&check_list_access_restricted=on&metadata-1=CreationDate&equals-1=%3D&searchtext-1=1508&logical-2=AND&metadata-2=DKCLARINType&equals-2=%3D&searchtext-2=TEIP5DKCLARIN&searchlist-2=TEIP5DKCLARIN&check_list_text=on"
             }
         ]
     }
