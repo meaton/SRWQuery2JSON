@@ -15,5 +15,5 @@
   },
   "repository": "git://github/meaton/SRWQuery2JSON",
   "author": "Mitchell Seaton",
-  "license": "BSD"
+  "license": "MIT"
 }
